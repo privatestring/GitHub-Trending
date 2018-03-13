@@ -1,0 +1,91 @@
+{
+	"joker_star":[
+		{
+			"lib":"🚀 skensell/MXRMessenger",
+			"language":"Objective-C",
+			"stars":24,
+			"forks":0,
+			"desc":"🚀A lightweight UI chat component built on top of Texture (aka AsyncDisplayKit).",
+			"url":"https://github.com/skensell/MXRMessenger"
+		},
+		{
+			"lib":"status-im/status-react",
+			"language":"Clojure",
+			"stars":1849,
+			"forks":439,
+			"desc":"a free (libre) open source, mobile OS for Ethereum",
+			"url":"https://github.com/status-im/status-react"
+		},
+		{
+			"lib":"TextureGroup/Texture",
+			"language":"Objective-C",
+			"stars":2760,
+			"forks":339,
+			"desc":"Smooth asynchronous user interfaces for iOS apps.",
+			"url":"https://github.com/TextureGroup/Texture"
+		},
+		{
+			"lib":"keighl/KTCenterFlowLayout",
+			"language":"Objective-C",
+			"stars":384,
+			"forks":50,
+			"desc":"Aligns collection view cells to the center of the screen.",
+			"url":"https://github.com/keighl/KTCenterFlowLayout"
+		},
+		{
+			"lib":"ColinEberhardt/VCTransitionsLibrary",
+			"language":"Objective-C",
+			"stars":4304,
+			"forks":630,
+			"desc":"A collection of iOS7 animation controllers and interaction controllers, providing flip, fold and all kinds of other transitions.",
+			"url":"https://github.com/ColinEberhardt/VCTransitionsLibrary"
+		},
+		{
+			"lib":"NSHipster/articles",
+			"language":"Objective-C++",
+			"stars":800,
+			"forks":293,
+			"desc":"Weekly articles for NSHipster.com",
+			"url":"https://github.com/NSHipster/articles"
+		},
+		{
+			"lib":"facebookarchive/AsyncDisplayKit",
+			"language":"Objective-C++",
+			"stars":12272,
+			"forks":2195,
+			"desc":"Smooth asynchronous user interfaces for iOS apps.",
+			"url":"https://github.com/facebookarchive/AsyncDisplayKit"
+		},
+		{
+			"lib":"tzahola/Scrolling60fps",
+			"language":"Objective-C",
+			"stars":0,
+			"forks":211,
+			"desc":"Example project for my NSBudapest talk: Pursuing 60 fps Scrolling (2016-02-18)",
+			"url":"https://github.com/tzahola/Scrolling60fps"
+		},
+		{
+			"lib":"nsomar/OAStackView",
+			"language":"Objective-C",
+			"stars":2181,
+			"forks":211,
+			"desc":"Porting UIStackView to iOS 7+",
+			"url":"https://github.com/nsomar/OAStackView"
+		},
+		{
+			"lib":"ghcformacosx/ghc-dot-app",
+			"language":"JavaScript",
+			"stars":128,
+			"forks":11,
+			"desc":"Tool to build a relocatable GHC for Mac OS X",
+			"url":"https://github.com/ghcformacosx/ghc-dot-app"
+		},
+		{
+			"lib":"XVimProject/XVim",
+			"language":"Objective-C",
+			"stars":5207,
+			"forks":709,
+			"desc":"Xcode plugin for Vim keybindings",
+			"url":"https://github.com/XVimProject/XVim"
+		}]
+}

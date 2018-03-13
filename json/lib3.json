@@ -1,0 +1,4099 @@
+{
+	"joker_star":[
+		{
+			"lib":"google/cameraview",
+			"language":"Java",
+			"stars":3001,
+			"forks":637,
+			"desc":"Easily integrate Camera features into your Android app",
+			"url":"https://github.com/google/cameraview"
+		},
+		{
+			"lib":"CameraKit/camerakit-android",
+			"language":"C",
+			"stars":2560,
+			"forks":386,
+			"desc":"One of the hardest Android APIs made into a high level and easy to use library that solves all of your problems.",
+			"url":"https://github.com/CameraKit/camerakit-android"
+		},
+		{
+			"lib":"AppAdhoc/AdhocSDK-Android",
+			"language":"Java",
+			"stars":8,
+			"forks":0,
+			"desc":"A demo Android App to help Adhoc users to understand Adhoc Optimization services.",
+			"url":"https://github.com/AppAdhoc/AdhocSDK-Android"
+		},
+		{
+			"lib":"Meituan-Dianping/Robust",
+			"language":"Java",
+			"stars":2490,
+			"forks":390,
+			"desc":"Robust is an Android HotFix solution with high compatibility and high stability. Robust can fix bugs immediately without a reboot.",
+			"url":"https://github.com/Meituan-Dianping/Robust"
+		},
+		{
+			"lib":"alibaba/vlayout",
+			"language":"Java",
+			"stars":7208,
+			"forks":1282,
+			"desc":"Project vlayout is a powerfull LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView. Make it able to handle a complicate situation when grid, list and other layouts in the same recyclerview.",
+			"url":"https://github.com/alibaba/vlayout"
+		},
+		{
+			"lib":"alibaba/fastjson",
+			"language":"Java",
+			"stars":12378,
+			"forks":3918,
+			"desc":"🚄 A fast JSON parser/generator for Java",
+			"url":"https://github.com/alibaba/fastjson"
+		},
+		{
+			"lib":"ximsfei/Android-skin-support",
+			"language":"Java",
+			"stars":2475,
+			"forks":418,
+			"desc":"Android-skin-support is an easy to use dynamic skin framework for Android, Only one line of code to integrate it.一款用心去做的Android 换肤框架, 极低的学习成本, 极好的用户体验. 一行代码就可以实现换肤, 你值得拥有!!!",
+			"url":"https://github.com/ximsfei/Android-skin-support"
+		},
+		{
+			"lib":"qstumn/BadgeView",
+			"language":"Java",
+			"stars":2149,
+			"forks":288,
+			"desc":"支持自由定制外观、拖拽消除的MaterialDesign风格Android BadgeView",
+			"url":"https://github.com/qstumn/BadgeView"
+		},
+		{
+			"lib":"mcxiaoke/packer-ng-plugin",
+			"language":"Java",
+			"stars":3330,
+			"forks":636,
+			"desc":"下一代Android打包工具，100个渠道包只需要10秒钟",
+			"url":"https://github.com/mcxiaoke/packer-ng-plugin"
+		},
+		{
+			"lib":"MatthiasRobbers/shortbread",
+			"language":"Java",
+			"stars":1487,
+			"forks":117,
+			"desc":"Android library that generates app shortcuts from Shortcut annotations",
+			"url":"https://github.com/MatthiasRobbers/shortbread"
+		},
+		{
+			"lib":"Tapadoo/Alerter",
+			"language":"Java",
+			"stars":3390,
+			"forks":362,
+			"desc":"An Android Alerting Library",
+			"url":"https://github.com/Tapadoo/Alerter"
+		},
+		{
+			"lib":"Bilibili/boxing",
+			"language":"Java",
+			"stars":2288,
+			"forks":276,
+			"desc":"Android multi-media selector based on MVP mode.",
+			"url":"https://github.com/Bilibili/boxing"
+		},
+		{
+			"lib":"HomHomLin/SlidingLayout",
+			"language":"Java",
+			"stars":552,
+			"forks":113,
+			"desc":"实现类似微信WebView的上拉下拉弹跳效果和iOS的ListView的果冻效果。",
+			"url":"https://github.com/HomHomLin/SlidingLayout"
+		},
+		{
+			"lib":"daimajia/AnimeTaste",
+			"language":"Java",
+			"stars":1616,
+			"forks":535,
+			"desc":"Taste global original animation",
+			"url":"https://github.com/daimajia/AnimeTaste"
+		},
+		{
+			"lib":"shwenzhang/AndResGuard",
+			"language":"Java",
+			"stars":4322,
+			"forks":932,
+			"desc":"proguard resource for Android by wechat team",
+			"url":"https://github.com/shwenzhang/AndResGuard"
+		},
+		{
+			"lib":"pawegio/KAndroid",
+			"language":"Kotlin",
+			"stars":688,
+			"forks":71,
+			"desc":"Kotlin library for Android",
+			"url":"https://github.com/pawegio/KAndroid"
+		},
+		{
+			"lib":"ragunathjawahar/kaffeine",
+			"language":"Kotlin",
+			"stars":133,
+			"forks":18,
+			"desc":"Kaffeine is a Kotlin-flavored Android library for accelerating development.",
+			"url":"https://github.com/ragunathjawahar/kaffeine"
+		},
+		{
+			"lib":"Bilibili/ijkplayer",
+			"language":"C",
+			"stars":17384,
+			"forks":5010,
+			"desc":"Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+			"url":"https://github.com/Bilibili/ijkplayer"
+		},
+		{
+			"lib":"geeeeeeeeek/WeChatLuckyMoney",
+			"language":"Java",
+			"stars":5612,
+			"forks":1907,
+			"desc":"💸 WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups.",
+			"url":"https://github.com/geeeeeeeeek/WeChatLuckyMoney"
+		},
+		{
+			"lib":"airbnb/lottie-android",
+			"language":"Java",
+			"stars":18444,
+			"forks":2743,
+			"desc":"Render After Effects animations natively on Android and iOS, Web, and React Native",
+			"url":"https://github.com/airbnb/lottie-android"
+		},
+		{
+			"lib":"ReactiveX/RxKotlin",
+			"language":"Kotlin",
+			"stars":3587,
+			"forks":235,
+			"desc":"RxJava bindings for Kotlin",
+			"url":"https://github.com/ReactiveX/RxKotlin"
+		},
+		{
+			"lib":"JetBrains/kotlin-examples",
+			"language":"Kotlin",
+			"stars":1489,
+			"forks":445,
+			"desc":"Various examples for Kotlin",
+			"url":"https://github.com/JetBrains/kotlin-examples"
+		},
+		{
+			"lib":"Kotlin/anko",
+			"language":"Kotlin",
+			"stars":9672,
+			"forks":749,
+			"desc":"Pleasant Android application development",
+			"url":"https://github.com/Kotlin/anko"
+		},
+		{
+			"lib":"wasabeef/richeditor-android",
+			"language":"Java",
+			"stars":3524,
+			"forks":739,
+			"desc":"RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.",
+			"url":"https://github.com/wasabeef/richeditor-android"
+		},
+		{
+			"lib":"jaywcjlove/awesome-mac",
+			"language":"HTML",
+			"stars":16718,
+			"forks":2024,
+			"desc":" This repo is a collection of awesome Mac applications and tools for developers and designers.",
+			"url":"https://github.com/jaywcjlove/awesome-mac"
+		},
+		{
+			"lib":"google/hover",
+			"language":"Java",
+			"stars":2247,
+			"forks":204,
+			"desc":"A floating menu library for Android.",
+			"url":"https://github.com/google/hover"
+		},
+		{
+			"lib":"inloop/svg2android",
+			"language":"JavaScript",
+			"stars":1247,
+			"forks":229,
+			"desc":"SVG to Android VectorDrawable XML resource file",
+			"url":"https://github.com/inloop/svg2android"
+		},
+		{
+			"lib":"mcxtzhang/PathAnimView",
+			"language":"Java",
+			"stars":802,
+			"forks":139,
+			"desc":"用于做Path动画的自定义View。 I have a path.I have a view. (Oh~),Path(Anim)View.",
+			"url":"https://github.com/mcxtzhang/PathAnimView"
+		},
+		{
+			"lib":"Kelin-Hong/ScrollablePanel",
+			"language":"Java",
+			"stars":1522,
+			"forks":220,
+			"desc":"A flexible view for providing a limited rect window into a large data set,just like a two-dimensional RecyclerView. It different from RecyclerView is that it's two-dimensional(just like a Panel) and it pin the itemView of first row and first column in their original location.",
+			"url":"https://github.com/Kelin-Hong/ScrollablePanel"
+		},
+		{
+			"lib":"Tencent/mars",
+			"language":"C++",
+			"stars":10062,
+			"forks":1939,
+			"desc":"Mars is a cross-platform network component developed by WeChat.",
+			"url":"https://github.com/Tencent/mars"
+		},
+		{
+			"lib":"mancj/SlideUp-Android",
+			"language":"Java",
+			"stars":1485,
+			"forks":192,
+			"desc":"SlideUp is a small library that allows you to add sweet slide effect to any view.",
+			"url":"https://github.com/mancj/SlideUp-Android"
+		},
+		{
+			"lib":"mcxtzhang/SwipeDelMenuLayout",
+			"language":"Java",
+			"stars":1711,
+			"forks":326,
+			"desc":"The most simple SwipeMenu in the history, 0 coupling, support any ViewGroup. Step integration swipe (delete) menu, high imitation QQ, iOS. ~史上最简单侧滑菜单，0耦合，支持任意ViewGroup。一步集成侧滑(删除)菜单，高仿QQ、IOS。~",
+			"url":"https://github.com/mcxtzhang/SwipeDelMenuLayout"
+		},
+		{
+			"lib":"Tencent/tinker",
+			"language":"Java",
+			"stars":11095,
+			"forks":2329,
+			"desc":"Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+			"url":"https://github.com/Tencent/tinker"
+		},
+		{
+			"lib":"long1eu/SpaceTabLayout",
+			"language":"Java",
+			"stars":1265,
+			"forks":220,
+			"desc":"This is a awesome TabLayout for Android with a central Floating Action Button :D",
+			"url":"https://github.com/long1eu/SpaceTabLayout"
+		},
+		{
+			"lib":"ssseasonnn/RxDownload",
+			"language":"Kotlin",
+			"stars":2871,
+			"forks":462,
+			"desc":"A multi-threaded download tool written with RxJava and Kotlin",
+			"url":"https://github.com/ssseasonnn/RxDownload"
+		},
+		{
+			"lib":"githubwing/ZoomHeader",
+			"language":"Java",
+			"stars":2107,
+			"forks":350,
+			"desc":"A demo of animation show how turn viewpager into detail.神交互。模仿饿了么详情页可以跟随手指移动 viewpager变详情页",
+			"url":"https://github.com/githubwing/ZoomHeader"
+		},
+		{
+			"lib":"jeasonlzy/NineGridView",
+			"language":"Java",
+			"stars":1401,
+			"forks":323,
+			"desc":"类似QQ空间，微信朋友圈，微博主页等，展示图片的九宫格控件，自动根据图片的数量确定图片大小和控件大小，使用Adapter模式设置图片，对外提供接口回调，使用接口加载图片,支持任意的图片加载框架,如 Glide,ImageLoader,Fresco,xUtils3,Picasso 等，支持点击图片全屏预览大图。",
+			"url":"https://github.com/jeasonlzy/NineGridView"
+		},
+		{
+			"lib":"lcodecorex/TwinklingRefreshLayout",
+			"language":"Java",
+			"stars":2994,
+			"forks":544,
+			"desc":"RefreshLayout that support for OverScroll and better than iOS. 支持下拉刷新和上拉加载的RefreshLayout,自带越界回弹效果，支持RecyclerView,AbsListView,ScrollView,WebView",
+			"url":"https://github.com/lcodecorex/TwinklingRefreshLayout"
+		},
+		{
+			"lib":"alibaba/freeline",
+			"language":"Java",
+			"stars":4342,
+			"forks":547,
+			"desc":"A super fast build tool for Android, an alternative to Instant Run",
+			"url":"https://github.com/alibaba/freeline"
+		},
+		{
+			"lib":"6thsolution/EasyMVP",
+			"language":"Java",
+			"stars":1129,
+			"forks":112,
+			"desc":"A full-featured framework that allows building android applications following the principles of Clean Architecture.",
+			"url":"https://github.com/6thsolution/EasyMVP"
+		},
+		{
+			"lib":"asyl/ArcAnimator",
+			"language":"Java",
+			"stars":1142,
+			"forks":160,
+			"desc":"ArcAnimator helps to create arc transition animation: 2.3.+",
+			"url":"https://github.com/asyl/ArcAnimator"
+		},
+		{
+			"lib":"naman14/Timber",
+			"language":"Java",
+			"stars":4180,
+			"forks":1282,
+			"desc":"Material Design Music Player",
+			"url":"https://github.com/naman14/Timber"
+		},
+		{
+			"lib":"google/auto",
+			"language":"Java",
+			"stars":6139,
+			"forks":663,
+			"desc":"A collection of source code generators for Java.",
+			"url":"https://github.com/google/auto"
+		},
+		{
+			"lib":"square/javapoet",
+			"language":"Java",
+			"stars":4618,
+			"forks":588,
+			"desc":"A Java API for generating .java source files.",
+			"url":"https://github.com/square/javapoet"
+		},
+		{
+			"lib":"kyleduo/SwitchButton",
+			"language":"Java",
+			"stars":3427,
+			"forks":756,
+			"desc":"A cute widget of Switch Button for you to create beautiful and friendly UI.",
+			"url":"https://github.com/kyleduo/SwitchButton"
+		},
+		{
+			"lib":"JakeWharton/retrofit2-rxjava2-adapter",
+			"language":"Java",
+			"stars":792,
+			"forks":57,
+			"desc":"An RxJava 2 CallAdapter.Factory implementation for Retrofit 2.",
+			"url":"https://github.com/JakeWharton/retrofit2-rxjava2-adapter"
+		},
+		{
+			"lib":"Hitomis/ActivitySwitcher",
+			"language":"Java",
+			"stars":942,
+			"forks":133,
+			"desc":"ActivitySwitcher is based on the Activity view operation management library, you can achieve any jump between Activity, close any Activity and end applications and other functions.",
+			"url":"https://github.com/Hitomis/ActivitySwitcher"
+		},
+		{
+			"lib":"Piasy/BigImageViewer",
+			"language":"Java",
+			"stars":1963,
+			"forks":243,
+			"desc":"Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso.",
+			"url":"https://github.com/Piasy/BigImageViewer"
+		},
+		{
+			"lib":"UFreedom/FloatingView",
+			"language":"Java",
+			"stars":1471,
+			"forks":216,
+			"desc":"FloatingView can make the target view floating above the anchor view with cool animation",
+			"url":"https://github.com/UFreedom/FloatingView"
+		},
+		{
+			"lib":"ImmortalZ/TransitionHelper",
+			"language":"Java",
+			"stars":1477,
+			"forks":192,
+			"desc":"This is a simple util to create Activity transition animation",
+			"url":"https://github.com/ImmortalZ/TransitionHelper"
+		},
+		{
+			"lib":"Piasy/RxScreenshotDetector",
+			"language":"Java",
+			"stars":154,
+			"forks":28,
+			"desc":"Android screenshot detector with ContentObserver and Rx.",
+			"url":"https://github.com/Piasy/RxScreenshotDetector"
+		},
+		{
+			"lib":"yanzhenjie/NoHttp",
+			"language":"Java",
+			"stars":3210,
+			"forks":835,
+			"desc":"Android实现Http标准协议框架，支持缓存（提供五种缓存模式）、代理、重定向，底层可动态切换OkHttp、URLConnection。",
+			"url":"https://github.com/yanzhenjie/NoHttp"
+		},
+		{
+			"lib":"xmuSistone/ViewpagerTransition",
+			"language":"Java",
+			"stars":2156,
+			"forks":376,
+			"desc":"viewpager with parallax pages, together with vertical sliding (or click) and activity transition",
+			"url":"https://github.com/xmuSistone/ViewpagerTransition"
+		},
+		{
+			"lib":"XBeats/and_swipeback",
+			"language":"Java",
+			"stars":826,
+			"forks":112,
+			"desc":"高仿最新版微信6.2手势滑动返回",
+			"url":"https://github.com/XBeats/and_swipeback"
+		},
+		{
+			"lib":"JakeWharton/picasso2-okhttp3-downloader",
+			"language":"Java",
+			"stars":602,
+			"forks":64,
+			"desc":"A OkHttp 3 downloader implementation for Picasso 2.",
+			"url":"https://github.com/JakeWharton/picasso2-okhttp3-downloader"
+		},
+		{
+			"lib":"laobie/NineGridImageView",
+			"language":"Java",
+			"stars":1059,
+			"forks":203,
+			"desc":"A custom widget for Android, which uesd for showing grid pictures.",
+			"url":"https://github.com/laobie/NineGridImageView"
+		},
+		{
+			"lib":"wasabeef/picasso-transformations",
+			"language":"Java",
+			"stars":1302,
+			"forks":191,
+			"desc":"An Android transformation library providing a variety of image transformations for Picasso",
+			"url":"https://github.com/wasabeef/picasso-transformations"
+		},
+		{
+			"lib":"loopeer/itemtouchhelper-extension",
+			"language":"Java",
+			"stars":895,
+			"forks":115,
+			"desc":"Extension for itemtouchhelper with swipe settling,recover and no conflict with recyclerview",
+			"url":"https://github.com/loopeer/itemtouchhelper-extension"
+		},
+		{
+			"lib":"lypeer/FcPermissions",
+			"language":"Java",
+			"stars":409,
+			"forks":58,
+			"desc":"Fuck the permissions in Android M",
+			"url":"https://github.com/lypeer/FcPermissions"
+		},
+		{
+			"lib":"rockerhieu/emojicon",
+			"language":"Java",
+			"stars":3114,
+			"forks":828,
+			"desc":"A library to show emoji in TextView, EditText (like WhatsApp) for Android",
+			"url":"https://github.com/rockerhieu/emojicon"
+		},
+		{
+			"lib":"Jungerr/GridPasswordView",
+			"language":"Java",
+			"stars":1418,
+			"forks":386,
+			"desc":"An android password view that looks like the pay password view in wechat app and alipay app.",
+			"url":"https://github.com/Jungerr/GridPasswordView"
+		},
+		{
+			"lib":"Aspsine/MultiThreadDownload",
+			"language":"Java",
+			"stars":797,
+			"forks":272,
+			"desc":"Android Multi-Thread Download library",
+			"url":"https://github.com/Aspsine/MultiThreadDownload"
+		},
+		{
+			"lib":"hehonghui/android-tech-frontier",
+			"language":"Java",
+			"stars":9030,
+			"forks":3194,
+			"desc":"【停止维护】一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目",
+			"url":"https://github.com/hehonghui/android-tech-frontier"
+		},
+		{
+			"lib":"bumptech/glide",
+			"language":"Java",
+			"stars":19953,
+			"forks":3920,
+			"desc":"An image loading and caching library for Android focused on smooth scrolling",
+			"url":"https://github.com/bumptech/glide"
+		},
+		{
+			"lib":"square/picasso",
+			"language":"Java",
+			"stars":14885,
+			"forks":3758,
+			"desc":"A powerful image downloading and caching library for Android",
+			"url":"https://github.com/square/picasso"
+		},
+		{
+			"lib":"Bigkoo/Android-PickerView",
+			"language":"Java",
+			"stars":6391,
+			"forks":1775,
+			"desc":"This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）",
+			"url":"https://github.com/Bigkoo/Android-PickerView"
+		},
+		{
+			"lib":"ImKarl/CharacterPickerView",
+			"language":"Java",
+			"stars":669,
+			"forks":165,
+			"desc":"可实现三级联动的选择器，高仿iOS的滚轮控件，字体大小自适应",
+			"url":"https://github.com/ImKarl/CharacterPickerView"
+		},
+		{
+			"lib":"lyft/scissors",
+			"language":"Java",
+			"stars":1728,
+			"forks":205,
+			"desc":"✂ Android image cropping library",
+			"url":"https://github.com/lyft/scissors"
+		},
+		{
+			"lib":"hongyangAndroid/okhttputils",
+			"language":"Java",
+			"stars":6037,
+			"forks":2252,
+			"desc":"[停止维护]okhttp的辅助类",
+			"url":"https://github.com/hongyangAndroid/okhttputils"
+		},
+		{
+			"lib":"hongyangAndroid/Highlight",
+			"language":"Java",
+			"stars":2255,
+			"forks":494,
+			"desc":"一个用于app指向性功能高亮的库",
+			"url":"https://github.com/hongyangAndroid/Highlight"
+		},
+		{
+			"lib":"ZhaoKaiQiang/KLog",
+			"language":"Java",
+			"stars":1480,
+			"forks":304,
+			"desc":"这是一个Android专用的LogCat工具，主要功能为打印行号、函数调用、Json解析、XML解析、点击跳转、Log信息保存等功能",
+			"url":"https://github.com/ZhaoKaiQiang/KLog"
+		},
+		{
+			"lib":"jingle1267/android-utils",
+			"language":"Java",
+			"stars":1166,
+			"forks":399,
+			"desc":"It contains most of the Android utility classes.",
+			"url":"https://github.com/jingle1267/android-utils"
+		},
+		{
+			"lib":"orhanobut/logger",
+			"language":"Java",
+			"stars":8358,
+			"forks":1454,
+			"desc":"✔️ Simple, pretty and powerful logger for android",
+			"url":"https://github.com/orhanobut/logger"
+		},
+		{
+			"lib":"Aspsine/SwipeToLoadLayout",
+			"language":"Java",
+			"stars":1824,
+			"forks":435,
+			"desc":"A reusable pull-to-refresh and pull-to-loadmore widget",
+			"url":"https://github.com/Aspsine/SwipeToLoadLayout"
+		},
+		{
+			"lib":"stephanenicolas/robospice",
+			"language":"Java",
+			"stars":3050,
+			"forks":600,
+			"desc":"Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.",
+			"url":"https://github.com/stephanenicolas/robospice"
+		},
+		{
+			"lib":"octo-online/RoboSpice-samples",
+			"language":"Java",
+			"stars":231,
+			"forks":131,
+			"desc":"All samples of the RoboSpice library.",
+			"url":"https://github.com/octo-online/RoboSpice-samples"
+		},
+		{
+			"lib":"nostra13/Android-Universal-Image-Loader",
+			"language":"Java",
+			"stars":15927,
+			"forks":6478,
+			"desc":"Powerful and flexible library for loading, caching and displaying images on Android.",
+			"url":"https://github.com/nostra13/Android-Universal-Image-Loader"
+		},
+		{
+			"lib":"emilsjolander/StickyScrollViewItems",
+			"language":"Java",
+			"stars":884,
+			"forks":231,
+			"desc":"A small android library for tagging views inside a ScrollView as sticky making them stick to the top of the scroll container until a new sticky view comes and takes it's place",
+			"url":"https://github.com/emilsjolander/StickyScrollViewItems"
+		},
+		{
+			"lib":"TonicArtos/StickyGridHeaders",
+			"language":"Java",
+			"stars":1450,
+			"forks":484,
+			"desc":"This project has been superseded by SuperSLiM, a layout manager for RecyclerView. I strongly recommend using SuperSLiM and not StickyGridHeaders.",
+			"url":"https://github.com/TonicArtos/StickyGridHeaders"
+		},
+		{
+			"lib":"emilsjolander/StickyListHeaders",
+			"language":"Java",
+			"stars":5182,
+			"forks":1557,
+			"desc":"An android library for section headers that stick to the top",
+			"url":"https://github.com/emilsjolander/StickyListHeaders"
+		},
+		{
+			"lib":"81813780/AVLoadingIndicatorView",
+			"language":"Java",
+			"stars":6790,
+			"forks":1380,
+			"desc":"Nice loading animations for Android",
+			"url":"https://github.com/81813780/AVLoadingIndicatorView"
+		},
+		{
+			"lib":"jkwiecien/EasyImage",
+			"language":"Java",
+			"stars":1034,
+			"forks":187,
+			"desc":"Library for picking pictures from gallery or camera",
+			"url":"https://github.com/jkwiecien/EasyImage"
+		},
+		{
+			"lib":"luckyandyzhang/CleverRecyclerView",
+			"language":"Java",
+			"stars":433,
+			"forks":84,
+			"desc":"[Deprecated] CleverRecyclerView 是一个基于RecyclerView的扩展库，提供了与ViewPager类似的滑动效果并且添加了一些有用的特性。",
+			"url":"https://github.com/luckyandyzhang/CleverRecyclerView"
+		},
+		{
+			"lib":"H07000223/FlycoTabLayout",
+			"language":"Java",
+			"stars":5721,
+			"forks":1364,
+			"desc":"An Android TabLayout Lib",
+			"url":"https://github.com/H07000223/FlycoTabLayout"
+		},
+		{
+			"lib":"sd6352051/RiseNumber",
+			"language":"Java",
+			"stars":255,
+			"forks":89,
+			"desc":"Android最佳实践示例",
+			"url":"https://github.com/sd6352051/RiseNumber"
+		},
+		{
+			"lib":"tianzhijiexian/Android-Best-Practices",
+			"language":"Java",
+			"stars":2831,
+			"forks":442,
+			"desc":"Android最佳实践示例",
+			"url":"https://github.com/tianzhijiexian/Android-Best-Practices"
+		},
+		{
+			"lib":"navasmdc/MaterialDesignLibrary",
+			"language":"Java",
+			"stars":8569,
+			"forks":2389,
+			"desc":"This is a library with components of Android L to you use in android 2.2",
+			"url":"https://github.com/navasmdc/MaterialDesignLibrary"
+		},
+		{
+			"lib":"drakeet/MaterialDialog",
+			"language":"Java",
+			"stars":2047,
+			"forks":509,
+			"desc":"(Deprecated: This library is deprecated and you should use android.support.v7.app.AlertDialog instead. ) An Android dialog library, has strong extensibility, customizability, and for conveniently building Material Design Dialog in Android version 2.2 ~ L.",
+			"url":"https://github.com/drakeet/MaterialDialog"
+		},
+		{
+			"lib":"florent37/MaterialViewPager",
+			"language":"Java",
+			"stars":6996,
+			"forks":1362,
+			"desc":"A Material Design ViewPager easy to use library",
+			"url":"https://github.com/florent37/MaterialViewPager"
+		},
+		{
+			"lib":"MiguelCatalan/MaterialSearchView",
+			"language":"Java",
+			"stars":2841,
+			"forks":493,
+			"desc":"Cute library to implement SearchView in a Material Design Approach",
+			"url":"https://github.com/MiguelCatalan/MaterialSearchView"
+		},
+		{
+			"lib":"android-cjj/Android-MaterialDeleteLayout",
+			"language":"Java",
+			"stars":345,
+			"forks":66,
+			"desc":"Maetrial Design Delete Concept Implement",
+			"url":"https://github.com/android-cjj/Android-MaterialDeleteLayout"
+		},
+		{
+			"lib":"mcxiaoke/RxDocs",
+			"language":"head>",
+			"stars":2815,
+			"forks":534,
+			"desc":"Rx和RxJava文档中文翻译项目",
+			"url":"https://github.com/mcxiaoke/RxDocs"
+		},
+		{
+			"lib":"zhihu/Matisse",
+			"language":"Java",
+			"stars":6164,
+			"forks":867,
+			"desc":"🎆 A well-designed local image and video selector for Android",
+			"url":"https://github.com/zhihu/Matisse"
+		},
+		{
+			"lib":"tiagohm/MarkdownView",
+			"language":"Java",
+			"stars":715,
+			"forks":78,
+			"desc":"Android library to display markdown text.",
+			"url":"https://github.com/tiagohm/MarkdownView"
+		},
+		{
+			"lib":"Kotlin/kotlin-frontend-plugin",
+			"language":"Kotlin",
+			"stars":201,
+			"forks":27,
+			"desc":"Gradle Kotlin (http://kotlinlang.org) plugin for frontend development",
+			"url":"https://github.com/Kotlin/kotlin-frontend-plugin"
+		},
+		{
+			"lib":"Kotlin/kotlinx.coroutines",
+			"language":"Kotlin",
+			"stars":1496,
+			"forks":178,
+			"desc":"Libraries built upon Kotlin coroutines",
+			"url":"https://github.com/Kotlin/kotlinx.coroutines"
+		},
+		{
+			"lib":"alibaba/ARouter",
+			"language":"Java",
+			"stars":4391,
+			"forks":722,
+			"desc":"An android router middleware that help app navigating to activities and custom services.",
+			"url":"https://github.com/alibaba/ARouter"
+		},
+		{
+			"lib":"BigFootprint/AndroidViewGenerator",
+			"language":"Java",
+			"stars":28,
+			"forks":0,
+			"desc":"UI相关代码自动生成器。",
+			"url":"https://github.com/BigFootprint/AndroidViewGenerator"
+		},
+		{
+			"lib":"Haehnchen/idea-android-studio-plugin",
+			"language":"Java",
+			"stars":276,
+			"forks":38,
+			"desc":"Android Studio Plugin",
+			"url":"https://github.com/Haehnchen/idea-android-studio-plugin"
+		},
+		{
+			"lib":"pchmn/MaterialChipsInput",
+			"language":"Java",
+			"stars":2043,
+			"forks":256,
+			"desc":"Implementation of Material Design Chips component for Android",
+			"url":"https://github.com/pchmn/MaterialChipsInput"
+		},
+		{
+			"lib":"willowtreeapps/spruce-android",
+			"language":"Java",
+			"stars":2491,
+			"forks":252,
+			"desc":"Spruce Animation Library",
+			"url":"https://github.com/willowtreeapps/spruce-android"
+		},
+		{
+			"lib":"pavel163/BifacialView",
+			"language":"Java",
+			"stars":332,
+			"forks":37,
+			"desc":"上传Jcenter的gradle配置",
+			"url":"https://github.com/pavel163/BifacialView"
+		},
+		{
+			"lib":"Jude95/JCenter",
+			"language":"Java",
+			"stars":55,
+			"forks":18,
+			"desc":"上传Jcenter的gradle配置",
+			"url":"https://github.com/Jude95/JCenter"
+		},
+		{
+			"lib":"greenrobot/essentials",
+			"language":"Java",
+			"stars":1132,
+			"forks":160,
+			"desc":"General purpose utilities and hash functions for Android and Java (aka java-common)",
+			"url":"https://github.com/greenrobot/essentials"
+		},
+		{
+			"lib":"glomadrian/Grav",
+			"language":"Java",
+			"stars":2103,
+			"forks":256,
+			"desc":"Configurable animations based on points",
+			"url":"https://github.com/glomadrian/Grav"
+		},
+		{
+			"lib":"HotBitmapGG/bilibili-android-client",
+			"language":"Java",
+			"stars":3245,
+			"forks":974,
+			"desc":"An unofficial bilibili client for android http://www.jianshu.com/p/f69a55b94c05",
+			"url":"https://github.com/HotBitmapGG/bilibili-android-client"
+		},
+		{
+			"lib":"whataa/SuitLines",
+			"language":"Java",
+			"stars":743,
+			"forks":106,
+			"desc":"一个小巧且高效的线性图表组件。",
+			"url":"https://github.com/whataa/SuitLines"
+		},
+		{
+			"lib":"BolexLiu/PressScanCode",
+			"language":"Java",
+			"stars":460,
+			"forks":69,
+			"desc":"识别 View 上的二维码的工具库。",
+			"url":"https://github.com/BolexLiu/PressScanCode"
+		},
+		{
+			"lib":"greenrobot/greenDAO",
+			"language":"Java",
+			"stars":9392,
+			"forks":2545,
+			"desc":"greenDAO is a light &amp; fast ORM solution for Android that maps objects to SQLite databases.",
+			"url":"https://github.com/greenrobot/greenDAO"
+		},
+		{
+			"lib":"hkq325800/JumpPermissionManagement",
+			"language":"Java",
+			"stars":88,
+			"forks":27,
+			"desc":"idea from http://www.jianshu.com/p/b5c494dba0bc",
+			"url":"https://github.com/hkq325800/JumpPermissionManagement"
+		},
+		{
+			"lib":"MarcinMoskala/ActivityStarter",
+			"language":"Kotlin",
+			"stars":263,
+			"forks":19,
+			"desc":"Simple Android Library, that provides easy way to start the Activities with arguments.",
+			"url":"https://github.com/MarcinMoskala/ActivityStarter"
+		},
+		{
+			"lib":"nanchen2251/CompressHelper",
+			"language":"Java",
+			"stars":1467,
+			"forks":246,
+			"desc":"🔥 压缩文件，压缩图片，压缩Bitmap，Compress, CompressImage, CompressFile, CompressBitmap",
+			"url":"https://github.com/nanchen2251/CompressHelper"
+		},
+		{
+			"lib":"aritraroy/PatternLockView",
+			"language":"Java",
+			"stars":1894,
+			"forks":283,
+			"desc":"An easy-to-use, customizable and Material Design ready Pattern Lock view for Android",
+			"url":"https://github.com/aritraroy/PatternLockView"
+		},
+		{
+			"lib":"yarolegovich/SlidingRootNav",
+			"language":"Java",
+			"stars":2082,
+			"forks":286,
+			"desc":"DrawerLayout-like ViewGroup, where a drawer is hidden under the content view, which can be shifted to make the drawer visible.",
+			"url":"https://github.com/yarolegovich/SlidingRootNav"
+		},
+		{
+			"lib":"alibaba/UltraViewPager",
+			"language":"Java",
+			"stars":3215,
+			"forks":460,
+			"desc":"UltraViewPager is an extension for ViewPager to provide multiple features in a single ViewPager.",
+			"url":"https://github.com/alibaba/UltraViewPager"
+		},
+		{
+			"lib":"yingLanNull/ShadowImageView",
+			"language":"Java",
+			"stars":1559,
+			"forks":185,
+			"desc":"🔥可以根据图片内容变阴影颜色，更加细腻的阴影效果 It can change color according to the picture, more delicate shadow effect",
+			"url":"https://github.com/yingLanNull/ShadowImageView"
+		},
+		{
+			"lib":"sinaweibosdk/weibo_android_sdk",
+			"language":"HTML",
+			"stars":1343,
+			"forks":1122,
+			"desc":"新浪微博 Android SDK",
+			"url":"https://github.com/sinaweibosdk/weibo_android_sdk"
+		},
+		{
+			"lib":"red/red",
+			"language":"Red",
+			"stars":3091,
+			"forks":300,
+			"desc":"Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!",
+			"url":"https://github.com/red/red"
+		},
+		{
+			"lib":"google/flexbox-layout",
+			"language":"Kotlin",
+			"stars":10528,
+			"forks":1155,
+			"desc":"Flexbox for Android",
+			"url":"https://github.com/google/flexbox-layout"
+		},
+		{
+			"lib":"googlesamples/android-PictureInPicture",
+			"language":"Java",
+			"stars":1189,
+			"forks":202,
+			"desc":"Android Activity 滑动返回。支持微信滑动返回样式、横屏滑动返回、全屏滑动返回",
+			"url":"https://github.com/googlesamples/android-PictureInPicture"
+		},
+		{
+			"lib":"bingoogolapple/BGASwipeBackLayout-Android",
+			"language":"Java",
+			"stars":1071,
+			"forks":153,
+			"desc":"Android Activity 滑动返回。支持微信滑动返回样式、横屏滑动返回、全屏滑动返回",
+			"url":"https://github.com/bingoogolapple/BGASwipeBackLayout-Android"
+		},
+		{
+			"lib":"klinker24/Android-DragDismissActivity",
+			"language":"Java",
+			"stars":568,
+			"forks":40,
+			"desc":"A smooth, easy-to-implement, drag to dismiss Android Activity",
+			"url":"https://github.com/klinker24/Android-DragDismissActivity"
+		},
+		{
+			"lib":"AbrahamCaiJin/CommonUtilLibrary",
+			"language":"Java",
+			"stars":1736,
+			"forks":487,
+			"desc":"快速开发工具类收集，史上最全的开发工具类，欢迎Follow、Fork、Star",
+			"url":"https://github.com/AbrahamCaiJin/CommonUtilLibrary"
+		},
+		{
+			"lib":"pqpo/SmartCropper",
+			"language":"Java",
+			"stars":1837,
+			"forks":254,
+			"desc":"🔥 A library for cropping image in a smart way that can identify the border and correct the cropped image. 智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。",
+			"url":"https://github.com/pqpo/SmartCropper"
+		},
+		{
+			"lib":"Tencent/VasSonic",
+			"language":"Java",
+			"stars":7024,
+			"forks":924,
+			"desc":"VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform.",
+			"url":"https://github.com/Tencent/VasSonic"
+		},
+		{
+			"lib":"niorgai/Android-Resource-Usage-Count",
+			"language":"Java",
+			"stars":848,
+			"forks":50,
+			"desc":"Show usage count for each resource",
+			"url":"https://github.com/niorgai/Android-Resource-Usage-Count"
+		},
+		{
+			"lib":"jgritman/httpbuilder",
+			"language":"Java",
+			"stars":244,
+			"forks":132,
+			"desc":"《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。",
+			"url":"https://github.com/jgritman/httpbuilder"
+		},
+		{
+			"lib":"ruanyf/es6tutorial",
+			"language":"JavaScript",
+			"stars":11202,
+			"forks":5079,
+			"desc":"《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。",
+			"url":"https://github.com/ruanyf/es6tutorial"
+		},
+		{
+			"lib":"zenorocha/alfred-workflows",
+			"language":"Java",
+			"stars":8298,
+			"forks":661,
+			"desc":"🤘 A collection of Alfred 3 workflows that will rock your world",
+			"url":"https://github.com/zenorocha/alfred-workflows"
+		},
+		{
+			"lib":"JmStefanAndroid/EasyBehavior",
+			"language":"Java",
+			"stars":478,
+			"forks":81,
+			"desc":"一个可以上拉下滑的Ui效果(4.0+)eg: A Beahavior Sample",
+			"url":"https://github.com/JmStefanAndroid/EasyBehavior"
+		},
+		{
+			"lib":"jpush/aurora-imui",
+			"language":"Java",
+			"stars":2897,
+			"forks":416,
+			"desc":"General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN。",
+			"url":"https://github.com/jpush/aurora-imui"
+		},
+		{
+			"lib":"scwang90/SmartRefreshLayout",
+			"language":"Java",
+			"stars":9409,
+			"forks":1864,
+			"desc":"🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。",
+			"url":"https://github.com/scwang90/SmartRefreshLayout"
+		},
+		{
+			"lib":"githubwing/DragPhotoView",
+			"language":"Java",
+			"stars":1122,
+			"forks":182,
+			"desc":"A photoView to scale image and finish activity，高仿微信可拖拽返回PhotoView",
+			"url":"https://github.com/githubwing/DragPhotoView"
+		},
+		{
+			"lib":"AAkira/CompoundIconTextView",
+			"language":"Java",
+			"stars":224,
+			"forks":21,
+			"desc":"An android library that is able to set a vector drawable at text view pre-Lollipop.",
+			"url":"https://github.com/AAkira/CompoundIconTextView"
+		},
+		{
+			"lib":"MindorksOpenSource/from-java-to-kotlin",
+			"language":"Java",
+			"stars":2994,
+			"forks":319,
+			"desc":"From Java To Kotlin - Your Cheat Sheet For Java To Kotlin",
+			"url":"https://github.com/MindorksOpenSource/from-java-to-kotlin"
+		},
+		{
+			"lib":"robbyrussell/oh-my-zsh",
+			"language":"Shell",
+			"stars":65041,
+			"forks":13952,
+			"desc":"A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+			"url":"https://github.com/robbyrussell/oh-my-zsh"
+		},
+		{
+			"lib":"googlearchive/chromium-webview-samples",
+			"language":"Java",
+			"stars":911,
+			"forks":285,
+			"desc":"Useful examples for Developing apps with the Chromium based WebView",
+			"url":"https://github.com/googlearchive/chromium-webview-samples"
+		},
+		{
+			"lib":"AriaLyy/Aria",
+			"language":"Java",
+			"stars":1676,
+			"forks":241,
+			"desc":"下载可以很简单",
+			"url":"https://github.com/AriaLyy/Aria"
+		},
+		{
+			"lib":"JackyAndroid/AndroidInterview-Q-A",
+			"language":"Java",
+			"stars":6957,
+			"forks":1622,
+			"desc":"The top Internet companies android interview questions and answers",
+			"url":"https://github.com/JackyAndroid/AndroidInterview-Q-A"
+		},
+		{
+			"lib":"square/kotlinpoet",
+			"language":"Kotlin",
+			"stars":1130,
+			"forks":62,
+			"desc":"A Kotlin API for generating .kt source files.",
+			"url":"https://github.com/square/kotlinpoet"
+		},
+		{
+			"lib":"seiginonakama/BlockCanaryEx",
+			"language":"Java",
+			"stars":1661,
+			"forks":165,
+			"desc":"make performance bottleneck detection easily when app blocked",
+			"url":"https://github.com/seiginonakama/BlockCanaryEx"
+		},
+		{
+			"lib":"Hitomis/transferee",
+			"language":"Java",
+			"stars":1394,
+			"forks":209,
+			"desc":"一个帮助您完成从缩略图到原图无缝过渡转变的神奇组件",
+			"url":"https://github.com/Hitomis/transferee"
+		},
+		{
+			"lib":"Lede-Inc/LDNetDiagnoService_Android",
+			"language":"Java",
+			"stars":174,
+			"forks":47,
+			"desc":"Android平台利用ping和traceroute的原理，对指定域名（通常为后台API的提供域名）进行网络诊断，并收集诊断日志",
+			"url":"https://github.com/Lede-Inc/LDNetDiagnoService_Android"
+		},
+		{
+			"lib":"Blizzard-liu/AndroidUtils",
+			"language":"Java",
+			"stars":792,
+			"forks":180,
+			"desc":"安卓攻城狮必备神器!!!",
+			"url":"https://github.com/Blizzard-liu/AndroidUtils"
+		},
+		{
+			"lib":"gradle/kotlin-dsl",
+			"language":"Kotlin",
+			"stars":1223,
+			"forks":128,
+			"desc":"Kotlin language support for Gradle build scripts",
+			"url":"https://github.com/gradle/kotlin-dsl"
+		},
+		{
+			"lib":"michael-rapp/ChromeLikeTabSwitcher",
+			"language":"Java",
+			"stars":946,
+			"forks":107,
+			"desc":"Provides a tab switcher similar to the one, which is used in Google Chrome on Android",
+			"url":"https://github.com/michael-rapp/ChromeLikeTabSwitcher"
+		},
+		{
+			"lib":"typ0520/fastdex",
+			"language":"Java",
+			"stars":916,
+			"forks":134,
+			"desc":"🚀 加快 apk 的编译速度 🚀",
+			"url":"https://github.com/typ0520/fastdex"
+		},
+		{
+			"lib":"chenBingX/SuperTextView",
+			"language":"Java",
+			"stars":1376,
+			"forks":212,
+			"desc":"Welcome to use SuperTextView.",
+			"url":"https://github.com/chenBingX/SuperTextView"
+		},
+		{
+			"lib":"uccmawei/FingerprintIdentify",
+			"language":"Java",
+			"stars":1030,
+			"forks":130,
+			"desc":"👍 Android Fingerprint Verification SDK",
+			"url":"https://github.com/uccmawei/FingerprintIdentify"
+		},
+		{
+			"lib":"BakerJQ/Android-InfiniteCards",
+			"language":"Java",
+			"stars":1210,
+			"forks":139,
+			"desc":"An infinite card switching UI for Android, support custom animation 可自定义动效的卡片切换视图",
+			"url":"https://github.com/BakerJQ/Android-InfiniteCards"
+		},
+		{
+			"lib":"facebook/litho",
+			"language":"Java",
+			"stars":4426,
+			"forks":350,
+			"desc":"A declarative framework for building efficient UIs on Android.",
+			"url":"https://github.com/facebook/litho"
+		},
+		{
+			"lib":"zjw-swun/AppMethodOrder",
+			"language":"Java",
+			"stars":1782,
+			"forks":213,
+			"desc":"一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）",
+			"url":"https://github.com/zjw-swun/AppMethodOrder"
+		},
+		{
+			"lib":"daimajia/AndroidViewAnimations",
+			"language":"Java",
+			"stars":8902,
+			"forks":1991,
+			"desc":"Cute view animation collection.",
+			"url":"https://github.com/daimajia/AndroidViewAnimations"
+		},
+		{
+			"lib":"jarlen/AndroidBucket",
+			"language":"Java",
+			"stars":2,
+			"forks":263,
+			"desc":"Android开发常用整理",
+			"url":"https://github.com/jarlen/AndroidBucket"
+		},
+		{
+			"lib":"MeetMe/Android-HorizontalListView",
+			"language":"Java",
+			"stars":711,
+			"forks":483,
+			"desc":"HorizontalListView is an Android ListView widget which scrolls in a horizontal manner (in contrast with the SDK-provided ListView which scrolls vertically).",
+			"url":"https://github.com/MeetMe/Android-HorizontalListView"
+		},
+		{
+			"lib":"astuetz/PagerSlidingTabStrip",
+			"language":"Java",
+			"stars":6410,
+			"forks":2891,
+			"desc":"An interactive indicator to navigate between the different pages of a ViewPager",
+			"url":"https://github.com/astuetz/PagerSlidingTabStrip"
+		},
+		{
+			"lib":"wenmingvs/NotifyUtil",
+			"language":"Java",
+			"stars":1375,
+			"forks":303,
+			"desc":"通知工具类",
+			"url":"https://github.com/wenmingvs/NotifyUtil"
+		},
+		{
+			"lib":"kymjs/RxVolley",
+			"language":"Java",
+			"stars":1139,
+			"forks":244,
+			"desc":"RxVolley = Volley + RxJava(RxJava2.0) + OkHttp(OkHttp3)",
+			"url":"https://github.com/kymjs/RxVolley"
+		},
+		{
+			"lib":"gzu-liyujiang/AndroidPicker",
+			"language":"Java",
+			"stars":3155,
+			"forks":946,
+			"desc":"安卓选择器类库，包括日期选择器、时间选择器、单项选择器、双项选择器、城市地址选择器、车牌号选择器、数字选择器、星座选择器、生肖选择器、颜色选择器、文件选择器、目录选择器等，可自定义顶部及底部界面，可自定义窗口动画……Picker for android, include date&amp;time/option/number/address/city/color/file&amp;directory.",
+			"url":"https://github.com/gzu-liyujiang/AndroidPicker"
+		},
+		{
+			"lib":"Syehunter/MaterialPageStateLayout",
+			"language":"Java",
+			"stars":498,
+			"forks":61,
+			"desc":"PageStateLayout could let you show [Loading][Empty][Error][Succeed][Requesting] state in Activity, Fragment, ViewGroup as you want.",
+			"url":"https://github.com/Syehunter/MaterialPageStateLayout"
+		},
+		{
+			"lib":"GavinCT/AndroidMP3Recorder",
+			"language":"C",
+			"stars":500,
+			"forks":232,
+			"desc":"为Android提供MP3录音功能[RETIRED]",
+			"url":"https://github.com/GavinCT/AndroidMP3Recorder"
+		},
+		{
+			"lib":"telescreen/AndroidMp3Recorder",
+			"language":"C",
+			"stars":144,
+			"forks":88,
+			"desc":"Android Mp3 Recorder",
+			"url":"https://github.com/telescreen/AndroidMp3Recorder"
+		},
+		{
+			"lib":"pengjianbo/ToolsFinal",
+			"language":"Java",
+			"stars":214,
+			"forks":76,
+			"desc":"Awesome toolkit for android dev.",
+			"url":"https://github.com/pengjianbo/ToolsFinal"
+		},
+		{
+			"lib":"pengjianbo/OkHttpFinal",
+			"language":"Java",
+			"stars":710,
+			"forks":250,
+			"desc":"OkHttp封装的一个简单易用HTTP请求, OkHttp文件下载管理地址https://github.com/pengjianbo/FileDownloaderFinal",
+			"url":"https://github.com/pengjianbo/OkHttpFinal"
+		},
+		{
+			"lib":"hongyangAndroid/AndroidChangeSkin",
+			"language":"Java",
+			"stars":1353,
+			"forks":350,
+			"desc":"一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity.",
+			"url":"https://github.com/hongyangAndroid/AndroidChangeSkin"
+		},
+		{
+			"lib":"THEONE10211024/WaterDropListView",
+			"language":"Java",
+			"stars":711,
+			"forks":202,
+			"desc":"WaterDropListView，just like the iOS",
+			"url":"https://github.com/THEONE10211024/WaterDropListView"
+		},
+		{
+			"lib":"renaudcerrato/ToggleDrawable",
+			"language":"Java",
+			"stars":1158,
+			"forks":130,
+			"desc":"Easy drawable animation using beziers curves.",
+			"url":"https://github.com/renaudcerrato/ToggleDrawable"
+		},
+		{
+			"lib":"pengjianbo/GalleryFinal",
+			"language":"Java",
+			"stars":3003,
+			"forks":808,
+			"desc":"[DEPRECATED] 项目迁移至:https://github.com/FinalTeam/RxGalleryFinal",
+			"url":"https://github.com/pengjianbo/GalleryFinal"
+		},
+		{
+			"lib":"aaronbond/Swipe-Deck",
+			"language":"Java",
+			"stars":760,
+			"forks":160,
+			"desc":"A Tinder style Swipeable deck view for Android",
+			"url":"https://github.com/aaronbond/Swipe-Deck"
+		},
+		{
+			"lib":"THEONE10211024/RxJavaSamples",
+			"language":"Java",
+			"stars":1021,
+			"forks":199,
+			"desc":"收集了RxJava常见的使用场景，例子简洁、经典、易懂...",
+			"url":"https://github.com/THEONE10211024/RxJavaSamples"
+		},
+		{
+			"lib":"lingochamp/FileDownloader",
+			"language":"Java",
+			"stars":5924,
+			"forks":1312,
+			"desc":"Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process",
+			"url":"https://github.com/lingochamp/FileDownloader"
+		},
+		{
+			"lib":"jd-alexander/LikeButton",
+			"language":"Java",
+			"stars":2127,
+			"forks":291,
+			"desc":"Twitter's heart animation for Android",
+			"url":"https://github.com/jd-alexander/LikeButton"
+		},
+		{
+			"lib":"hanks-zyh/SmallBang",
+			"language":"Java",
+			"stars":940,
+			"forks":152,
+			"desc":"twitter like animation for any view 💓",
+			"url":"https://github.com/hanks-zyh/SmallBang"
+		},
+		{
+			"lib":"danylovolokh/HashTagHelper",
+			"language":"Java",
+			"stars":574,
+			"forks":56,
+			"desc":"This is a library designed for highlighting hashtags (#example) and catching click on them.",
+			"url":"https://github.com/danylovolokh/HashTagHelper"
+		},
+		{
+			"lib":"LittleLiByte/GlFancyCoverFlow",
+			"language":"Java",
+			"stars":210,
+			"forks":64,
+			"desc":"[停止维护]由FancyCoverFlow改版",
+			"url":"https://github.com/LittleLiByte/GlFancyCoverFlow"
+		},
+		{
+			"lib":"davidschreiber/FancyCoverFlow",
+			"language":"Java",
+			"stars":1062,
+			"forks":418,
+			"desc":"A cool Open Source CoverFlow view for Android with several fancy effects.",
+			"url":"https://github.com/davidschreiber/FancyCoverFlow"
+		},
+		{
+			"lib":"hanks-zyh/HTextView",
+			"language":"Java",
+			"stars":3683,
+			"forks":623,
+			"desc":"Animation effects to text, not really textview",
+			"url":"https://github.com/hanks-zyh/HTextView"
+		},
+		{
+			"lib":"googlesamples/easypermissions",
+			"language":"Java",
+			"stars":5031,
+			"forks":834,
+			"desc":"Simplify Android M system permissions",
+			"url":"https://github.com/googlesamples/easypermissions"
+		},
+		{
+			"lib":"l123456789jy/Lazy",
+			"language":"Java",
+			"stars":1563,
+			"forks":631,
+			"desc":"The android tools 自己整理的常用的工具类",
+			"url":"https://github.com/l123456789jy/Lazy"
+		},
+		{
+			"lib":"PhilJay/MPAndroidChart",
+			"language":"Java",
+			"stars":20328,
+			"forks":5716,
+			"desc":"A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.",
+			"url":"https://github.com/PhilJay/MPAndroidChart"
+		},
+		{
+			"lib":"wyouflf/xUtils3",
+			"language":"Java",
+			"stars":4745,
+			"forks":1860,
+			"desc":"android orm, bitmap, http, view inject...",
+			"url":"https://github.com/wyouflf/xUtils3"
+		},
+		{
+			"lib":"xmuSistone/CardSlidePanel",
+			"language":"Java",
+			"stars":2003,
+			"forks":485,
+			"desc":"enable users to slide card to the left or right smoothly and continuously",
+			"url":"https://github.com/xmuSistone/CardSlidePanel"
+		},
+		{
+			"lib":"north2016/A-MusicView",
+			"language":"Java",
+			"stars":904,
+			"forks":224,
+			"desc":"此项目已废弃",
+			"url":"https://github.com/north2016/A-MusicView"
+		},
+		{
+			"lib":"kymjs/KJGallery",
+			"language":"Java",
+			"stars":295,
+			"forks":57,
+			"desc":"一个支持Gif图片以及普通图片预览，支持双击缩放，单机退出，同时可以选择使用jni的形式去高效加载gif或者更更精简的(仅2个类)gif控件",
+			"url":"https://github.com/kymjs/KJGallery"
+		},
+		{
+			"lib":"txusballesteros/AutosizeEditText",
+			"language":"Java",
+			"stars":343,
+			"forks":43,
+			"desc":"AutosizeEditText for Android is an extension of native EditText that offer a smooth auto scale text size.",
+			"url":"https://github.com/txusballesteros/AutosizeEditText"
+		},
+		{
+			"lib":"xmuSistone/VerticalSlideFragment",
+			"language":"Java",
+			"stars":1460,
+			"forks":305,
+			"desc":"vertical slide to switch to the next fragment page, looks like vertical viewpager",
+			"url":"https://github.com/xmuSistone/VerticalSlideFragment"
+		},
+		{
+			"lib":"daimajia/AndroidImageSlider",
+			"language":"Java",
+			"stars":4807,
+			"forks":1570,
+			"desc":"An amazing and convenient Android image slider.",
+			"url":"https://github.com/daimajia/AndroidImageSlider"
+		},
+		{
+			"lib":"tuesda/CircleRefreshLayout",
+			"language":"Java",
+			"stars":1630,
+			"forks":373,
+			"desc":"a custom pull-to-refresh layout which contains a interesting animation",
+			"url":"https://github.com/tuesda/CircleRefreshLayout"
+		},
+		{
+			"lib":"liaohuqiu/cube-sdk",
+			"language":"Java",
+			"stars":1190,
+			"forks":497,
+			"desc":"A light package for Android development, it handles loading image and network request.",
+			"url":"https://github.com/liaohuqiu/cube-sdk"
+		},
+		{
+			"lib":"jfoenixadmin/JFoenix",
+			"language":"Java",
+			"stars":2109,
+			"forks":410,
+			"desc":"JavaFX Material Design Library",
+			"url":"https://github.com/jfoenixadmin/JFoenix"
+		},
+		{
+			"lib":"ymback/BambooPlayer",
+			"language":"Java",
+			"stars":288,
+			"forks":88,
+			"desc":"一个轻量级、多格式、支持解析多个视频网站的绿色播放器",
+			"url":"https://github.com/ymback/BambooPlayer"
+		},
+		{
+			"lib":"satorufujiwara/material-scrolling",
+			"language":"Java",
+			"stars":600,
+			"forks":110,
+			"desc":"Android library for material scrolling techniques.",
+			"url":"https://github.com/satorufujiwara/material-scrolling"
+		},
+		{
+			"lib":"lgvalle/Material-Animations",
+			"language":"Java",
+			"stars":10956,
+			"forks":2248,
+			"desc":"Android Transition animations explanation with examples.",
+			"url":"https://github.com/lgvalle/Material-Animations"
+		},
+		{
+			"lib":"loopj/android-async-http",
+			"language":"Java",
+			"stars":10134,
+			"forks":4342,
+			"desc":"An Asynchronous HTTP Library for Android",
+			"url":"https://github.com/loopj/android-async-http"
+		},
+		{
+			"lib":"chrisbanes/cheesesquare",
+			"language":"Java",
+			"stars":7309,
+			"forks":1813,
+			"desc":"Demos the new Android Design library.",
+			"url":"https://github.com/chrisbanes/cheesesquare"
+		},
+		{
+			"lib":"tangqi92/Android-Tips",
+			"language":"Java",
+			"stars":3021,
+			"forks":875,
+			"desc":"An awesome list of tips for Android.",
+			"url":"https://github.com/tangqi92/Android-Tips"
+		},
+		{
+			"lib":"android-cjj/Android-MaterialRefreshLayout",
+			"language":"Java",
+			"stars":1964,
+			"forks":495,
+			"desc":"This is a drop-down control, it is more beautiful and powerful than SwipeRefreshLayout",
+			"url":"https://github.com/android-cjj/Android-MaterialRefreshLayout"
+		},
+		{
+			"lib":"hehonghui/Colorful",
+			"language":"Java",
+			"stars":1247,
+			"forks":245,
+			"desc":"基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式。",
+			"url":"https://github.com/hehonghui/Colorful"
+		},
+		{
+			"lib":"bauerca/drag-sort-listview",
+			"language":"Java",
+			"stars":3174,
+			"forks":1592,
+			"desc":"Android ListView with drag and drop reordering.",
+			"url":"https://github.com/bauerca/drag-sort-listview"
+		},
+		{
+			"lib":"pakerfeldt/android-viewflow",
+			"language":"Java",
+			"stars":1845,
+			"forks":777,
+			"desc":"A horizontal view scroller library for Android",
+			"url":"https://github.com/pakerfeldt/android-viewflow"
+		},
+		{
+			"lib":"JakeWharton/ViewPagerIndicator",
+			"language":"Java",
+			"stars":9572,
+			"forks":4293,
+			"desc":"Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.",
+			"url":"https://github.com/JakeWharton/ViewPagerIndicator"
+		},
+		{
+			"lib":"jgilfelt/android-sqlite-asset-helper",
+			"language":"Java",
+			"stars":1896,
+			"forks":495,
+			"desc":"An Android helper class to manage database creation and version management using an application's raw asset files",
+			"url":"https://github.com/jgilfelt/android-sqlite-asset-helper"
+		},
+		{
+			"lib":"chrisbanes/PhotoView",
+			"language":"Java",
+			"stars":12348,
+			"forks":3231,
+			"desc":"Implementation of ImageView for Android that supports zooming, by various touch gestures.",
+			"url":"https://github.com/chrisbanes/PhotoView"
+		},
+		{
+			"lib":"trello/RxLifecycle",
+			"language":"Java",
+			"stars":5118,
+			"forks":446,
+			"desc":"Lifecycle handling APIs for Android apps using RxJava",
+			"url":"https://github.com/trello/RxLifecycle"
+		},
+		{
+			"lib":"zzz40500/Android-PullToNextLayout",
+			"language":"Java",
+			"stars":525,
+			"forks":115,
+			"desc":"Android-PullToNextLayout",
+			"url":"https://github.com/zzz40500/Android-PullToNextLayout"
+		},
+		{
+			"lib":"android-quick-dev/NonViewUtils",
+			"language":"Java",
+			"stars":223,
+			"forks":121,
+			"desc":"不涉及视图的工具类，逻辑类的集合",
+			"url":"https://github.com/android-quick-dev/NonViewUtils"
+		},
+		{
+			"lib":"bluejamesbond/TextJustify-Android",
+			"language":"Java",
+			"stars":1613,
+			"forks":364,
+			"desc":"📄 Android Text Full Jusiftication / Wrapping / Justify / Hyphenate - V2.0",
+			"url":"https://github.com/bluejamesbond/TextJustify-Android"
+		},
+		{
+			"lib":"facebook/shimmer-android",
+			"language":"Java",
+			"stars":2493,
+			"forks":441,
+			"desc":"An easy, flexible way to add a shimmering effect to any view in an Android app.",
+			"url":"https://github.com/facebook/shimmer-android"
+		},
+		{
+			"lib":"r0adkll/Slidr",
+			"language":"Java",
+			"stars":1779,
+			"forks":291,
+			"desc":"Easily add slide to dismiss functionality to an Activity",
+			"url":"https://github.com/r0adkll/Slidr"
+		},
+		{
+			"lib":"JakeWharton/salvage",
+			"language":"Java",
+			"stars":459,
+			"forks":130,
+			"desc":"Generic view recycler and ViewPager PagerAdapter implementation.",
+			"url":"https://github.com/JakeWharton/salvage"
+		},
+		{
+			"lib":"koral--/android-gif-drawable",
+			"language":"Java",
+			"stars":5693,
+			"forks":1339,
+			"desc":"Views and Drawable for displaying animated GIFs on Android",
+			"url":"https://github.com/koral--/android-gif-drawable"
+		},
+		{
+			"lib":"H07000223/FlycoDialog_Master",
+			"language":"Java",
+			"stars":1769,
+			"forks":474,
+			"desc":"An Android Dialog Lib simplify customization.",
+			"url":"https://github.com/H07000223/FlycoDialog_Master"
+		},
+		{
+			"lib":"mwaterfall/MWPhotoBrowser",
+			"language":"Objective-C",
+			"stars":7982,
+			"forks":2522,
+			"desc":"A simple iOS photo and video browser with grid view, captions and selections.",
+			"url":"https://github.com/mwaterfall/MWPhotoBrowser"
+		},
+		{
+			"lib":"wangrui460/WRNavigationBar",
+			"language":"Objective-C",
+			"stars":1453,
+			"forks":289,
+			"desc":"超简单！！！ 一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等 WRNavigationBar which allows you to change NavigationBar's appearance dynamically",
+			"url":"https://github.com/wangrui460/WRNavigationBar"
+		},
+		{
+			"lib":"banchichen/TZImagePickerController",
+			"language":"Objective-C",
+			"stars":4392,
+			"forks":1011,
+			"desc":"一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。 A clone of UIImagePickerController, support picking multiple photos、original photo、video, also allow preview photo and video, support iOS6+",
+			"url":"https://github.com/banchichen/TZImagePickerController"
+		},
+		{
+			"lib":"calimarkus/JDStatusBarNotification",
+			"language":"Objective-C",
+			"stars":3412,
+			"forks":509,
+			"desc":"[iOS] Easy, customizable notifications displayed on top of the statusbar.",
+			"url":"https://github.com/calimarkus/JDStatusBarNotification"
+		},
+		{
+			"lib":"SVProgressHUD/SVProgressHUD",
+			"language":"Objective-C",
+			"stars":10631,
+			"forks":2235,
+			"desc":"A clean and lightweight progress HUD for your iOS and tvOS app.",
+			"url":"https://github.com/SVProgressHUD/SVProgressHUD"
+		},
+		{
+			"lib":"wangmchn/WMPageController",
+			"language":"Objective-C",
+			"stars":1950,
+			"forks":434,
+			"desc":"An easy solution to page controllers like NetEase News",
+			"url":"https://github.com/wangmchn/WMPageController"
+		},
+		{
+			"lib":"steipete/PSTCollectionView",
+			"language":"Objective-C",
+			"stars":2521,
+			"forks":528,
+			"desc":"Open Source, 100% API compatible replacement of UICollectionView for iOS4.3+",
+			"url":"https://github.com/steipete/PSTCollectionView"
+		},
+		{
+			"lib":"CoderMJLee/MJRefresh",
+			"language":"Objective-C",
+			"stars":11597,
+			"forks":3348,
+			"desc":"An easy way to use pull-to-refresh.",
+			"url":"https://github.com/CoderMJLee/MJRefresh"
+		},
+		{
+			"lib":"auth0/SimpleKeychain",
+			"language":"Objective-C",
+			"stars":263,
+			"forks":45,
+			"desc":"A Keychain helper for iOS to make it very simple to store/obtain values from iOS Keychain",
+			"url":"https://github.com/auth0/SimpleKeychain"
+		},
+		{
+			"lib":"CEWendel/SWTableViewCell",
+			"language":"Objective-C",
+			"stars":6997,
+			"forks":1325,
+			"desc":"An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)",
+			"url":"https://github.com/CEWendel/SWTableViewCell"
+		},
+		{
+			"lib":"hackiftekhar/IQKeyboardManager",
+			"language":"Objective-C",
+			"stars":10853,
+			"forks":1831,
+			"desc":"Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
+			"url":"https://github.com/hackiftekhar/IQKeyboardManager"
+		},
+		{
+			"lib":"Ramotion/expanding-collection-android",
+			"language":"Java",
+			"stars":1419,
+			"forks":190,
+			"desc":" ExpandingCollection is a material design card peek/pop controller",
+			"url":"https://github.com/Ramotion/expanding-collection-android"
+		},
+		{
+			"lib":"Ramotion/garland-view-android",
+			"language":"Java",
+			"stars":1252,
+			"forks":165,
+			"desc":" ≡ GarlandView seamlessly transitions between multiple lists of content. Made by @Ramotion",
+			"url":"https://github.com/Ramotion/garland-view-android"
+		},
+		{
+			"lib":"Ramotion/folding-cell-android",
+			"language":"Java",
+			"stars":3292,
+			"forks":601,
+			"desc":" 📃 FoldingCell is a material design expanding content cell inspired by folding paper material made by @Ramotion",
+			"url":"https://github.com/Ramotion/folding-cell-android"
+		},
+		{
+			"lib":"Ramotion/folding-cell",
+			"language":"Java",
+			"stars":3292,
+			"forks":601,
+			"desc":" 📃 FoldingCell is a material design expanding content cell inspired by folding paper material made by @Ramotion",
+			"url":"https://github.com/Ramotion/folding-cell"
+		},
+		{
+			"lib":"Ramotion/expanding-collection",
+			"language":"Java",
+			"stars":1419,
+			"forks":190,
+			"desc":" ExpandingCollection is a material design card peek/pop controller",
+			"url":"https://github.com/Ramotion/expanding-collection"
+		},
+		{
+			"lib":"gsdios/SDAutoLayout",
+			"language":"Objective-C",
+			"stars":4987,
+			"forks":1227,
+			"desc":"One line of code to implement automatic layout. 一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。The most easy way for autoLayout. Based on runtime.",
+			"url":"https://github.com/gsdios/SDAutoLayout"
+		},
+		{
+			"lib":"forkingdog/UITableView-FDTemplateLayoutCell",
+			"language":"Objective-C",
+			"stars":8522,
+			"forks":1853,
+			"desc":"Template auto layout cell for automatically UITableViewCell height calculating",
+			"url":"https://github.com/forkingdog/UITableView-FDTemplateLayoutCell"
+		},
+		{
+			"lib":"CoderMJLee/MJExtension",
+			"language":"Objective-C",
+			"stars":7454,
+			"forks":2133,
+			"desc":"A fast, convenient and nonintrusive conversion between JSON and model. Your model class don't need to extend another base class. You don't need to modify any model file.",
+			"url":"https://github.com/CoderMJLee/MJExtension"
+		},
+		{
+			"lib":"Mantle/Mantle",
+			"language":"Objective-C",
+			"stars":10879,
+			"forks":1467,
+			"desc":"Model framework for Cocoa and Cocoa Touch",
+			"url":"https://github.com/Mantle/Mantle"
+		},
+		{
+			"lib":"johnezang/JSONKit",
+			"language":"Objective-C",
+			"stars":6167,
+			"forks":1772,
+			"desc":"Objective-C JSON",
+			"url":"https://github.com/johnezang/JSONKit"
+		},
+		{
+			"lib":"Alamofire/Alamofire",
+			"language":"Swift",
+			"stars":26712,
+			"forks":4711,
+			"desc":"Elegant HTTP Networking in Swift",
+			"url":"https://github.com/Alamofire/Alamofire"
+		},
+		{
+			"lib":"rs/SDWebImage",
+			"language":"Objective-C",
+			"stars":19282,
+			"forks":5041,
+			"desc":"Asynchronous image downloader with cache support as a UIImageView category",
+			"url":"https://github.com/rs/SDWebImage"
+		},
+		{
+			"lib":"JiaHongXu/JHGridView",
+			"language":"Objective-C",
+			"stars":18,
+			"forks":0,
+			"desc":"A HIGHLY customizable grid view for ios",
+			"url":"https://github.com/JiaHongXu/JHGridView"
+		},
+		{
+			"lib":"AFNetworking/AFNetworking",
+			"language":"Objective-C",
+			"stars":30610,
+			"forks":9477,
+			"desc":"A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
+			"url":"https://github.com/AFNetworking/AFNetworking"
+		},
+		{
+			"lib":"marcuswestin/WebViewJavascriptBridge",
+			"language":"Objective-C",
+			"stars":10156,
+			"forks":2303,
+			"desc":"An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews",
+			"url":"https://github.com/marcuswestin/WebViewJavascriptBridge"
+		},
+		{
+			"lib":"SnapKit/Masonry",
+			"language":"Objective-C",
+			"stars":15997,
+			"forks":3028,
+			"desc":"Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout",
+			"url":"https://github.com/SnapKit/Masonry"
+		},
+		{
+			"lib":"passy/build-time-tracker-plugin",
+			"language":"Groovy",
+			"stars":827,
+			"forks":50,
+			"desc":"Gradle plugin to continuously track and report your build times",
+			"url":"https://github.com/passy/build-time-tracker-plugin"
+		},
+		{
+			"lib":"Tencent/RapidView",
+			"language":"Java",
+			"stars":761,
+			"forks":65,
+			"desc":"RapidView is an android ui and lightapp developement framework",
+			"url":"https://github.com/Tencent/RapidView"
+		},
+		{
+			"lib":"vondear/RxTools",
+			"language":"Java",
+			"stars":4424,
+			"forks":1113,
+			"desc":"Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | 编译运行一下说不定会找到惊喜",
+			"url":"https://github.com/vondear/RxTools"
+		},
+		{
+			"lib":"skensell/stanford-ios-course",
+			"language":"Objective-C",
+			"stars":3,
+			"forks":0,
+			"desc":"http://www.stanford.edu/class/cs193p/cgi-bin/drupal/",
+			"url":"https://github.com/skensell/stanford-ios-course"
+		},
+		{
+			"lib":"gang544043963/LGPhotoBrowser",
+			"language":"Objective-C",
+			"stars":377,
+			"forks":104,
+			"desc":"照片浏览器，相册选择器，自定义照相机（支持单拍、连拍）",
+			"url":"https://github.com/gang544043963/LGPhotoBrowser"
+		},
+		{
+			"lib":"pengyuantao/OnePush",
+			"language":"Java",
+			"stars":919,
+			"forks":116,
+			"desc":"消息推送用OnePush，就够了！",
+			"url":"https://github.com/pengyuantao/OnePush"
+		},
+		{
+			"lib":"GrenderG/Toasty",
+			"language":"Java",
+			"stars":3789,
+			"forks":460,
+			"desc":"The usual Toast, but with steroids 💪",
+			"url":"https://github.com/GrenderG/Toasty"
+		},
+		{
+			"lib":"JohnPersano/SuperToasts",
+			"language":"Java",
+			"stars":2480,
+			"forks":516,
+			"desc":"A library that extends the Android toast framework.",
+			"url":"https://github.com/JohnPersano/SuperToasts"
+		},
+		{
+			"lib":"Aufree/trip-to-iOS",
+			"language":"Objective-C",
+			"stars":7319,
+			"forks":2305,
+			"desc":"A curated list of delightful iOS resources.",
+			"url":"https://github.com/Aufree/trip-to-iOS"
+		},
+		{
+			"lib":"JessYanCoding/ProgressManager",
+			"language":"Java",
+			"stars":1407,
+			"forks":153,
+			"desc":"Listen the progress of downloading and uploading in Okhttp (compatible Retrofit and Glide).",
+			"url":"https://github.com/JessYanCoding/ProgressManager"
+		},
+		{
+			"lib":"GcsSloop/rclayout",
+			"language":"Java",
+			"stars":987,
+			"forks":120,
+			"desc":"Android通用圆角布局。",
+			"url":"https://github.com/GcsSloop/rclayout"
+		},
+		{
+			"lib":"xmuSistone/VegaLayoutManager",
+			"language":"Java",
+			"stars":1376,
+			"forks":161,
+			"desc":"√A customized LayoutManager - fade and shrink the head itemView when scrolling.",
+			"url":"https://github.com/xmuSistone/VegaLayoutManager"
+		},
+		{
+			"lib":"jeasonlzy/ImagePicker",
+			"language":"Java",
+			"stars":2546,
+			"forks":629,
+			"desc":"完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数",
+			"url":"https://github.com/jeasonlzy/ImagePicker"
+		},
+		{
+			"lib":"jeasonlzy/VerticalSlideView",
+			"language":"Java",
+			"stars":456,
+			"forks":141,
+			"desc":"类似淘宝的商品详情页，继续拖动查看详情，其中拖动增加了阻尼，并且重写了ListView，GridView，ScrollView，WebView，RecyclerView 的 dispatchTouchEvent 方法，使用的时候无须额外的代码，可以任意嵌套使用。",
+			"url":"https://github.com/jeasonlzy/VerticalSlideView"
+		},
+		{
+			"lib":"Cuieney/RxPay",
+			"language":"Kotlin",
+			"stars":386,
+			"forks":52,
+			"desc":"一个集成支付宝微信的支付工具完全兼容kotlin",
+			"url":"https://github.com/Cuieney/RxPay"
+		},
+		{
+			"lib":"googlesamples/android-architecture-components",
+			"language":"Java",
+			"stars":6406,
+			"forks":1249,
+			"desc":"Samples for Android Architecture Components.",
+			"url":"https://github.com/googlesamples/android-architecture-components"
+		},
+		{
+			"lib":"luojilab/DDComponentForAndroid",
+			"language":"Java",
+			"stars":1720,
+			"forks":274,
+			"desc":"一套完整有效的android组件化方案，支持组件的组件完全隔离、单独调试、集成调试、组件交互、UI跳转、动态加载卸载等功能",
+			"url":"https://github.com/luojilab/DDComponentForAndroid"
+		},
+		{
+			"lib":"FinalTeam/RxGalleryFinal",
+			"language":"Java",
+			"stars":1760,
+			"forks":338,
+			"desc":"Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。",
+			"url":"https://github.com/FinalTeam/RxGalleryFinal"
+		},
+		{
+			"lib":"txusballesteros/bubbles-for-android",
+			"language":"Java",
+			"stars":1254,
+			"forks":234,
+			"desc":"Bubbles for Android is an Android library to provide chat heads capabilities on your apps. With a fast way to integrate with your development.",
+			"url":"https://github.com/txusballesteros/bubbles-for-android"
+		},
+		{
+			"lib":"JakeWharton/scalpel",
+			"language":"Java",
+			"stars":2445,
+			"forks":206,
+			"desc":"A surgical debugging tool to uncover the layers under your app.",
+			"url":"https://github.com/JakeWharton/scalpel"
+		},
+		{
+			"lib":"markzhai/AndroidPerformanceMonitor",
+			"language":"Java",
+			"stars":3772,
+			"forks":649,
+			"desc":"A transparent ui-block detection library for Android. (known as BlockCanary)",
+			"url":"https://github.com/markzhai/AndroidPerformanceMonitor"
+		},
+		{
+			"lib":"QMUI/QMUI_Android",
+			"language":"Java",
+			"stars":4032,
+			"forks":638,
+			"desc":"提高 Android UI 开发效率的 UI 库",
+			"url":"https://github.com/QMUI/QMUI_Android"
+		},
+		{
+			"lib":"Jacksgong/ThreadDebugger",
+			"language":"Java",
+			"stars":42,
+			"forks":0,
+			"desc":"Threads monitor and the thread pool factory.",
+			"url":"https://github.com/Jacksgong/ThreadDebugger"
+		},
+		{
+			"lib":"wotomas/VoiceRipple",
+			"language":"Java",
+			"stars":289,
+			"forks":33,
+			"desc":"Voice Record Button that has ripple effect with users voice",
+			"url":"https://github.com/wotomas/VoiceRipple"
+		},
+		{
+			"lib":"JetBrains/gradle-intellij-plugin",
+			"language":"Groovy",
+			"stars":324,
+			"forks":64,
+			"desc":"Plugin for building plugins for IntelliJ IDEs",
+			"url":"https://github.com/JetBrains/gradle-intellij-plugin"
+		},
+		{
+			"lib":"balsikandar/Android-Studio-Plugins",
+			"language":"Java",
+			"stars":1786,
+			"forks":154,
+			"desc":"This is a list of all awesome and useful android studio plugins.",
+			"url":"https://github.com/balsikandar/Android-Studio-Plugins"
+		},
+		{
+			"lib":"Nightonke/WoWoViewPager",
+			"language":"Java",
+			"stars":2268,
+			"forks":391,
+			"desc":"Combine ViewPager and Animations to provide a simple way to create applications' guide pages.",
+			"url":"https://github.com/Nightonke/WoWoViewPager"
+		},
+		{
+			"lib":"race604/FlyRefresh",
+			"language":"Java",
+			"stars":2861,
+			"forks":593,
+			"desc":"The implementation of https://dribbble.com/shots/2067564-Replace",
+			"url":"https://github.com/race604/FlyRefresh"
+		},
+		{
+			"lib":"binIoter/GuideView",
+			"language":"Java",
+			"stars":2258,
+			"forks":435,
+			"desc":"最最轻量级的新手引导库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导提示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment",
+			"url":"https://github.com/binIoter/GuideView"
+		},
+		{
+			"lib":"Tencent/soter",
+			"language":"Java",
+			"stars":931,
+			"forks":93,
+			"desc":"A secure and quick biometric authentication standard and platform in Android held by Tencent.",
+			"url":"https://github.com/Tencent/soter"
+		},
+		{
+			"lib":"zeeshanu/learn-regex",
+			"language":"Java",
+			"stars":13760,
+			"forks":1254,
+			"desc":"Learn regex the easy way",
+			"url":"https://github.com/zeeshanu/learn-regex"
+		},
+		{
+			"lib":"TakuSemba/MultiSnapRecyclerView",
+			"language":"Java",
+			"stars":1330,
+			"forks":146,
+			"desc":"Android library for multiple snapping of RecyclerView",
+			"url":"https://github.com/TakuSemba/MultiSnapRecyclerView"
+		},
+		{
+			"lib":"huazhiyuan2008/RecyclerViewCardGallery",
+			"language":"Java",
+			"stars":1799,
+			"forks":327,
+			"desc":"@Deprecated RecyclerView实现Card Gallery效果，替代ViewPager方案",
+			"url":"https://github.com/huazhiyuan2008/RecyclerViewCardGallery"
+		},
+		{
+			"lib":"iKrelve/KuaiHu",
+			"language":"Java",
+			"stars":703,
+			"forks":304,
+			"desc":"高仿知乎日报——krelve.com",
+			"url":"https://github.com/iKrelve/KuaiHu"
+		},
+		{
+			"lib":"ReactiveX/RxJava",
+			"language":"Java",
+			"stars":30447,
+			"forks":5352,
+			"desc":"RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+			"url":"https://github.com/ReactiveX/RxJava"
+		},
+		{
+			"lib":"ReactiveX/RxAndroid",
+			"language":"Java",
+			"stars":14978,
+			"forks":2471,
+			"desc":"RxJava bindings for Android",
+			"url":"https://github.com/ReactiveX/RxAndroid"
+		},
+		{
+			"lib":"android-cjj/BeautifulRefreshLayout",
+			"language":"Java",
+			"stars":2049,
+			"forks":439,
+			"desc":"A bueautiful RefreshLayout",
+			"url":"https://github.com/android-cjj/BeautifulRefreshLayout"
+		},
+		{
+			"lib":"wedcel/DragExpandGrid",
+			"language":"Java",
+			"stars":632,
+			"forks":157,
+			"desc":"可展开，可拖动，可排序，可删除，固定更多的GridView",
+			"url":"https://github.com/wedcel/DragExpandGrid"
+		},
+		{
+			"lib":"IsseiAoki/SimpleCropView",
+			"language":"Java",
+			"stars":1832,
+			"forks":353,
+			"desc":"A simple image cropping library for Android.",
+			"url":"https://github.com/IsseiAoki/SimpleCropView"
+		},
+		{
+			"lib":"liaohuqiu/android-Ultra-Pull-To-Refresh",
+			"language":"Java",
+			"stars":8763,
+			"forks":2778,
+			"desc":"Ultra Pull to Refresh for Android. Support all the views.",
+			"url":"https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh"
+		},
+		{
+			"lib":"sd6352051/NiftyDialogEffects",
+			"language":"Java",
+			"stars":2246,
+			"forks":754,
+			"desc":"Nifty Modal Dialog Effects",
+			"url":"https://github.com/sd6352051/NiftyDialogEffects"
+		},
+		{
+			"lib":"2dxgujun/AndroidTagGroup",
+			"language":"Java",
+			"stars":2012,
+			"forks":461,
+			"desc":"🍀A beautiful android tag group widget.",
+			"url":"https://github.com/2dxgujun/AndroidTagGroup"
+		},
+		{
+			"lib":"jdamcd/android-crop",
+			"language":"Java",
+			"stars":3961,
+			"forks":1090,
+			"desc":"Android library project for cropping images",
+			"url":"https://github.com/jdamcd/android-crop"
+		},
+		{
+			"lib":"pili-engineering/PLDroidMediaStreaming",
+			"language":"Java",
+			"stars":991,
+			"forks":366,
+			"desc":"PLDroidMediaStreaming 是七牛推出的一款适用于 Android 平台的推流 SDK，支持 RTMP 推流，h.264 和 AAC 编码，硬编、软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。PLDroidMediaStreaming 是现在目前重点维护的版本，自带采集模块也支持用户自己做采集端。",
+			"url":"https://github.com/pili-engineering/PLDroidMediaStreaming"
+		},
+		{
+			"lib":"drakeet/FingerTransparentView",
+			"language":"Java",
+			"stars":364,
+			"forks":80,
+			"desc":"手指区域羽化透明，显示出底部图片布局区域。",
+			"url":"https://github.com/drakeet/FingerTransparentView"
+		},
+		{
+			"lib":"rey5137/material",
+			"language":"Java",
+			"stars":5318,
+			"forks":1304,
+			"desc":"A library to bring fully animated Material Design components to pre-Lolipop Android.",
+			"url":"https://github.com/rey5137/material"
+		},
+		{
+			"lib":"traex/RippleEffect",
+			"language":"Java",
+			"stars":4547,
+			"forks":1101,
+			"desc":"Implementation of Ripple effect from Material Design for Android API 9+",
+			"url":"https://github.com/traex/RippleEffect"
+		},
+		{
+			"lib":"konifar/material-cat",
+			"language":"Kotlin",
+			"stars":405,
+			"forks":88,
+			"desc":"Cat photos app for Material Design Animation sample.",
+			"url":"https://github.com/konifar/material-cat"
+		},
+		{
+			"lib":"sfshine/TVZoomViewItem",
+			"language":"Java",
+			"stars":10,
+			"forks":0,
+			"desc":"Show a menu, when select a",
+			"url":"https://github.com/sfshine/TVZoomViewItem"
+		},
+		{
+			"lib":"recruit-lifestyle/WaveSwipeRefreshLayout",
+			"language":"Java",
+			"stars":1690,
+			"forks":385,
+			"desc":"Insanely easy way to define clickable links within a TextView.",
+			"url":"https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout"
+		},
+		{
+			"lib":"klinker24/Android-TextView-LinkBuilder",
+			"language":"Java",
+			"stars":1275,
+			"forks":181,
+			"desc":"Insanely easy way to define clickable links within a TextView.",
+			"url":"https://github.com/klinker24/Android-TextView-LinkBuilder"
+		},
+		{
+			"lib":"JakeWharton/Telecine",
+			"language":"Java",
+			"stars":2168,
+			"forks":390,
+			"desc":"Record full-resolution video on your Android devices.",
+			"url":"https://github.com/JakeWharton/Telecine"
+		},
+		{
+			"lib":"bushijie/ParallaxSwipeBack",
+			"language":"Java",
+			"stars":372,
+			"forks":92,
+			"desc":"带视觉差的侧滑返回，类似于新版微信和lofter的侧滑返回效果。核心代码小于50行",
+			"url":"https://github.com/bushijie/ParallaxSwipeBack"
+		},
+		{
+			"lib":"baoyongzhang/SwipeMenuListView",
+			"language":"Java",
+			"stars":3209,
+			"forks":1305,
+			"desc":"[DEPRECATED] A swipe menu for ListView.",
+			"url":"https://github.com/baoyongzhang/SwipeMenuListView"
+		},
+		{
+			"lib":"dersoncheng/DanmakuFlameMaster",
+			"language":"Java",
+			"stars":12,
+			"forks":1671,
+			"desc":"大弹幕时代来临了,这里是Android上最好的开源弹幕引擎·烈焰弹幕使 ～ 被弹幕吞噬吧!",
+			"url":"https://github.com/dersoncheng/DanmakuFlameMaster"
+		},
+		{
+			"lib":"wasabeef/awesome-android-ui",
+			"language":"Java",
+			"stars":28179,
+			"forks":7631,
+			"desc":"A curated list of awesome Android UI/UX libraries",
+			"url":"https://github.com/wasabeef/awesome-android-ui"
+		},
+		{
+			"lib":"JakeWharton/butterknife",
+			"language":"Java",
+			"stars":19916,
+			"forks":3972,
+			"desc":"Bind Android views and callbacks to fields and methods.",
+			"url":"https://github.com/JakeWharton/butterknife"
+		},
+		{
+			"lib":"pengwei1024/LogUtils",
+			"language":"Java",
+			"stars":735,
+			"forks":173,
+			"desc":"More convenient and easy to use android Log manager",
+			"url":"https://github.com/pengwei1024/LogUtils"
+		},
+		{
+			"lib":"facebook/fresco",
+			"language":"Java",
+			"stars":14042,
+			"forks":3503,
+			"desc":"An Android library for managing images and the memory they use.",
+			"url":"https://github.com/facebook/fresco"
+		},
+		{
+			"lib":"wasabeef/Blurry",
+			"language":"Java",
+			"stars":3093,
+			"forks":405,
+			"desc":"Blurry is an easy blur library for Android",
+			"url":"https://github.com/wasabeef/Blurry"
+		},
+		{
+			"lib":"square/okhttp",
+			"language":"Java",
+			"stars":24718,
+			"forks":5817,
+			"desc":"An HTTP+HTTP/2 client for Android and Java applications.",
+			"url":"https://github.com/square/okhttp"
+		},
+		{
+			"lib":"square/retrofit",
+			"language":"Java",
+			"stars":26061,
+			"forks":5158,
+			"desc":"Type-safe HTTP client for Android and Java by Square, Inc.",
+			"url":"https://github.com/square/retrofit"
+		},
+		{
+			"lib":"FasterXML/jackson-databind",
+			"language":"Java",
+			"stars":1548,
+			"forks":635,
+			"desc":"General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s)",
+			"url":"https://github.com/FasterXML/jackson-databind"
+		},
+		{
+			"lib":"daimajia/AndroidSwipeLayout",
+			"language":"Java",
+			"stars":9521,
+			"forks":2437,
+			"desc":"The Most Powerful Swipe Layout!",
+			"url":"https://github.com/daimajia/AndroidSwipeLayout"
+		},
+		{
+			"lib":"pedant/sweet-alert-dialog",
+			"language":"Java",
+			"stars":5489,
+			"forks":1595,
+			"desc":"SweetAlert for Android, a beautiful and clever alert dialog",
+			"url":"https://github.com/pedant/sweet-alert-dialog"
+		},
+		{
+			"lib":"square/leakcanary",
+			"language":"Java",
+			"stars":18259,
+			"forks":2964,
+			"desc":"A memory leak detection library for Android and Java.",
+			"url":"https://github.com/square/leakcanary"
+		},
+		{
+			"lib":"nhaarman/ListViewAnimations",
+			"language":"Java",
+			"stars":5657,
+			"forks":1841,
+			"desc":"[DEPRECATED] An Android library which allows developers to easily add animations to ListView items",
+			"url":"https://github.com/nhaarman/ListViewAnimations"
+		},
+		{
+			"lib":"laobie/StatusBarUtil",
+			"language":"Java",
+			"stars":4775,
+			"forks":940,
+			"desc":"A util for setting status bar style on Android App.",
+			"url":"https://github.com/laobie/StatusBarUtil"
+		},
+		{
+			"lib":"roughike/BottomBar",
+			"language":"Java",
+			"stars":7570,
+			"forks":1406,
+			"desc":"(Deprecated) A custom view component that mimics the new Material Design Bottom Navigation pattern.",
+			"url":"https://github.com/roughike/BottomBar"
+		},
+		{
+			"lib":"AzimoLabs/AndroidKeyboardWatcher",
+			"language":"Java",
+			"stars":833,
+			"forks":125,
+			"desc":"Software keyboard open/close watcher for Android.",
+			"url":"https://github.com/AzimoLabs/AndroidKeyboardWatcher"
+		},
+		{
+			"lib":"pwittchen/ReactiveNetwork",
+			"language":"Java",
+			"stars":1673,
+			"forks":176,
+			"desc":"Android library listening network connection state and Internet connectivity with RxJava Observables",
+			"url":"https://github.com/pwittchen/ReactiveNetwork"
+		},
+		{
+			"lib":"lightSky/Awesome-MaterialDesign",
+			"language":"Java",
+			"stars":5348,
+			"forks":1508,
+			"desc":"Collection of material design libs and res.",
+			"url":"https://github.com/lightSky/Awesome-MaterialDesign"
+		},
+		{
+			"lib":"Manabu-GT/ExpandableTextView",
+			"language":"Java",
+			"stars":2797,
+			"forks":657,
+			"desc":"Android's TextView that can expand/collapse like the Google Play's app description",
+			"url":"https://github.com/Manabu-GT/ExpandableTextView"
+		},
+		{
+			"lib":"pnikosis/materialish-progress",
+			"language":"Java",
+			"stars":2264,
+			"forks":451,
+			"desc":"A material style progress wheel compatible with 2.3",
+			"url":"https://github.com/pnikosis/materialish-progress"
+		},
+		{
+			"lib":"Trinea/android-common",
+			"language":"Java",
+			"stars":4624,
+			"forks":2759,
+			"desc":"Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on",
+			"url":"https://github.com/Trinea/android-common"
+		},
+		{
+			"lib":"snowdream/awesome-android",
+			"language":"Shell",
+			"stars":5757,
+			"forks":1533,
+			"desc":"android libs from github or other websites",
+			"url":"https://github.com/snowdream/awesome-android"
+		},
+		{
+			"lib":"Freelander/Android_Data",
+			"language":"Java",
+			"stars":6904,
+			"forks":1901,
+			"desc":"Some Android learning materials, hoping to help you learn Android development.",
+			"url":"https://github.com/Freelander/Android_Data"
+		},
+		{
+			"lib":"yangfuhai/ASimpleCache",
+			"language":"Java",
+			"stars":2878,
+			"forks":1020,
+			"desc":"a simple cache for android and java",
+			"url":"https://github.com/yangfuhai/ASimpleCache"
+		},
+		{
+			"lib":"wyouflf/xUtils",
+			"language":"Java",
+			"stars":4967,
+			"forks":3071,
+			"desc":"android orm, bitmap, http, view inject... 已转至 https://github.com/wyouflf/xUtils3",
+			"url":"https://github.com/wyouflf/xUtils"
+		},
+		{
+			"lib":"zxing/zxing",
+			"language":"Java",
+			"stars":17200,
+			"forks":7149,
+			"desc":"ZXing (Zebra Crossing) barcode scanning library for Java, Android",
+			"url":"https://github.com/zxing/zxing"
+		},
+		{
+			"lib":"lsjwzh/RecyclerViewPager",
+			"language":"Java",
+			"stars":2771,
+			"forks":551,
+			"desc":"A ViewPager implemention base on RecyclerView's code. Support fling operation like gallary.",
+			"url":"https://github.com/lsjwzh/RecyclerViewPager"
+		},
+		{
+			"lib":"google/guava",
+			"language":"Java",
+			"stars":21760,
+			"forks":5043,
+			"desc":"Google core libraries for Java",
+			"url":"https://github.com/google/guava"
+		},
+		{
+			"lib":"ogaclejapan/SmartTabLayout",
+			"language":"Java",
+			"stars":5116,
+			"forks":1074,
+			"desc":"A custom ViewPager title strip which gives continuous feedback to the user when scrolling",
+			"url":"https://github.com/ogaclejapan/SmartTabLayout"
+		},
+		{
+			"lib":"qiujuer/ImageBlurring",
+			"language":"Java",
+			"stars":1209,
+			"forks":281,
+			"desc":"Android blurring image(bitmap) by java and jni.",
+			"url":"https://github.com/qiujuer/ImageBlurring"
+		},
+		{
+			"lib":"bingoogolapple/BGABadgeView-Android",
+			"language":"Java",
+			"stars":1918,
+			"forks":376,
+			"desc":"Android 徽章控件",
+			"url":"https://github.com/bingoogolapple/BGABadgeView-Android"
+		},
+		{
+			"lib":"ikew0ng/SwipeBackLayout",
+			"language":"Java",
+			"stars":4801,
+			"forks":1349,
+			"desc":"An Android library that help you to build app with swipe back gesture.",
+			"url":"https://github.com/ikew0ng/SwipeBackLayout"
+		},
+		{
+			"lib":"sbakhtiarov/gif-movie-view",
+			"language":"Java",
+			"stars":451,
+			"forks":159,
+			"desc":"Android View widget for displaying GIF animations.",
+			"url":"https://github.com/sbakhtiarov/gif-movie-view"
+		},
+		{
+			"lib":"Piasy/RxAndroidAudio",
+			"language":"Java",
+			"stars":1141,
+			"forks":180,
+			"desc":"Maybe the most robust Android Audio encapsulation library, with partial Rx support.",
+			"url":"https://github.com/Piasy/RxAndroidAudio"
+		},
+		{
+			"lib":"xiepeijie/SwipeCardView",
+			"language":"Java",
+			"stars":1169,
+			"forks":254,
+			"desc":"一个带渐变层叠动画的左右滑动效果（类似于探探、tinder）",
+			"url":"https://github.com/xiepeijie/SwipeCardView"
+		},
+		{
+			"lib":"JakeWharton/RxBinding",
+			"language":"Java",
+			"stars":6891,
+			"forks":733,
+			"desc":"RxJava binding APIs for Android's UI widgets.",
+			"url":"https://github.com/JakeWharton/RxBinding"
+		},
+		{
+			"lib":"Yalantis/uCrop",
+			"language":"Java",
+			"stars":6566,
+			"forks":1207,
+			"desc":"Image Cropping Library for Android",
+			"url":"https://github.com/Yalantis/uCrop"
+		},
+		{
+			"lib":"danylovolokh/VideoPlayerManager",
+			"language":"Java",
+			"stars":2400,
+			"forks":588,
+			"desc":"This is a project designed to help controlling Android MediaPlayer class. It makes it easier to use MediaPlayer ListView and RecyclerView. Also it tracks the most visible item in scrolling list. When new item in the list become the most visible, this library gives an API to track it.",
+			"url":"https://github.com/danylovolokh/VideoPlayerManager"
+		},
+		{
+			"lib":"konmik/nucleus",
+			"language":"Java",
+			"stars":1917,
+			"forks":272,
+			"desc":"Nucleus is an Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of an application.",
+			"url":"https://github.com/konmik/nucleus"
+		},
+		{
+			"lib":"GavinCT/AndroidMultiChannelBuildTool",
+			"language":"Java",
+			"stars":1008,
+			"forks":308,
+			"desc":"安卓多渠道打包工具",
+			"url":"https://github.com/GavinCT/AndroidMultiChannelBuildTool"
+		},
+		{
+			"lib":"willowtreeapps/Hyperion-iOS",
+			"language":"Objective-C",
+			"stars":1290,
+			"forks":40,
+			"desc":"In-app design review tool to inspect measurements, attributes, and animations.",
+			"url":"https://github.com/willowtreeapps/Hyperion-iOS"
+		},
+		{
+			"lib":"skyming/iOS-Performance-Optimization",
+			"language":"Objective-C",
+			"stars":1257,
+			"forks":240,
+			"desc":"关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit",
+			"url":"https://github.com/skyming/iOS-Performance-Optimization"
+		},
+		{
+			"lib":"airbnb/lottie-ios",
+			"language":"Objective-C",
+			"stars":12387,
+			"forks":1564,
+			"desc":"An iOS library to natively render After Effects vector animations",
+			"url":"https://github.com/airbnb/lottie-ios"
+		},
+		{
+			"lib":"yacir/CollectionViewSlantedLayout",
+			"language":"Swift",
+			"stars":885,
+			"forks":47,
+			"desc":"UICollectionViewLayout subclass to display slanted content",
+			"url":"https://github.com/yacir/CollectionViewSlantedLayout"
+		},
+		{
+			"lib":"CarGuo/GSYVideoPlayer",
+			"language":"Java",
+			"stars":4762,
+			"forks":1122,
+			"desc":"视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg。简书:",
+			"url":"https://github.com/CarGuo/GSYVideoPlayer"
+		},
+		{
+			"lib":"AndroidKnife/RxBus",
+			"language":"Java",
+			"stars":1418,
+			"forks":186,
+			"desc":"Event Bus By RxJava.",
+			"url":"https://github.com/AndroidKnife/RxBus"
+		},
+		{
+			"lib":"huangyanbin/SmartChart",
+			"language":"Java",
+			"stars":75,
+			"forks":12,
+			"desc":"一款android 图表框架，支持图表N配置，支持缩放,旋转手势。",
+			"url":"https://github.com/huangyanbin/SmartChart"
+		},
+		{
+			"lib":"huangyanbin/smartTable",
+			"language":"Java",
+			"stars":1116,
+			"forks":152,
+			"desc":"一款android自动生成表格框架---An Android automatically generated table framework",
+			"url":"https://github.com/huangyanbin/smartTable"
+		},
+		{
+			"lib":"corin8823/Popover",
+			"language":"Swift",
+			"stars":1374,
+			"forks":205,
+			"desc":"Popover is a balloon library like Facebook app. It is written in pure swift.",
+			"url":"https://github.com/corin8823/Popover"
+		},
+		{
+			"lib":"mayubao/KuaiChuan",
+			"language":"Java",
+			"stars":991,
+			"forks":325,
+			"desc":"仿茄子快传的一款文件传输应用",
+			"url":"https://github.com/mayubao/KuaiChuan"
+		},
+		{
+			"lib":"Tencent/Tars",
+			"language":"C++",
+			"stars":3035,
+			"forks":835,
+			"desc":"Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.",
+			"url":"https://github.com/Tencent/Tars"
+		},
+		{
+			"lib":"Tencent/wepy",
+			"language":"JavaScript",
+			"stars":5596,
+			"forks":749,
+			"desc":"小程序组件化开发框架",
+			"url":"https://github.com/Tencent/wepy"
+		},
+		{
+			"lib":"marcosgriselli/ViewAnimator",
+			"language":"Swift",
+			"stars":3220,
+			"forks":172,
+			"desc":"ViewAnimator brings your UI to life with just one line",
+			"url":"https://github.com/marcosgriselli/ViewAnimator"
+		},
+		{
+			"lib":"yshrsmz/KeyboardVisibilityEvent",
+			"language":"Java",
+			"stars":745,
+			"forks":93,
+			"desc":"Android Library to handle soft keyboard visibility change event.",
+			"url":"https://github.com/yshrsmz/KeyboardVisibilityEvent"
+		},
+		{
+			"lib":"AigeStudio/WheelPicker",
+			"language":"Java",
+			"stars":1802,
+			"forks":387,
+			"desc":"Simple and fantastic wheel view in realistic effect for android.",
+			"url":"https://github.com/AigeStudio/WheelPicker"
+		},
+		{
+			"lib":"kentya6/KYCircularProgress",
+			"language":"Swift",
+			"stars":983,
+			"forks":103,
+			"desc":"Flexible progress bar written in Swift.",
+			"url":"https://github.com/kentya6/KYCircularProgress"
+		},
+		{
+			"lib":"Alamofire/AlamofireImage",
+			"language":"Swift",
+			"stars":2819,
+			"forks":349,
+			"desc":"AlamofireImage is an image component library for Alamofire",
+			"url":"https://github.com/Alamofire/AlamofireImage"
+		},
+		{
+			"lib":"a-voyager/BluetoothHelper",
+			"language":"Java",
+			"stars":1024,
+			"forks":165,
+			"desc":"Bluetooth Helper Library.—-蓝牙操作库",
+			"url":"https://github.com/a-voyager/BluetoothHelper"
+		},
+		{
+			"lib":"mzule/FantasySlide",
+			"language":"Java",
+			"stars":1211,
+			"forks":190,
+			"desc":"Another sliding menu base on DrawerLayout",
+			"url":"https://github.com/mzule/FantasySlide"
+		},
+		{
+			"lib":"makomori/Sharaku",
+			"language":"Swift",
+			"stars":1306,
+			"forks":118,
+			"desc":"Image filtering UI library like Instagram.",
+			"url":"https://github.com/makomori/Sharaku"
+		},
+		{
+			"lib":"romannurik/muzei",
+			"language":"Java",
+			"stars":3439,
+			"forks":852,
+			"desc":"Muzei Live Wallpaper for Android",
+			"url":"https://github.com/romannurik/muzei"
+		},
+		{
+			"lib":"apple/swift-package-manager",
+			"language":"Swift",
+			"stars":6044,
+			"forks":667,
+			"desc":"The Package Manager for the Swift Programming Language",
+			"url":"https://github.com/apple/swift-package-manager"
+		},
+		{
+			"lib":"beeth0ven/RxSwift-Chinese-Documentation",
+			"language":"CSS",
+			"stars":185,
+			"forks":20,
+			"desc":"RxSwift 中文文档",
+			"url":"https://github.com/beeth0ven/RxSwift-Chinese-Documentation"
+		},
+		{
+			"lib":"cesarferreira/SwiftEventBus",
+			"language":"Swift",
+			"stars":610,
+			"forks":61,
+			"desc":"A publish/subscribe EventBus optimized for iOS",
+			"url":"https://github.com/cesarferreira/SwiftEventBus"
+		},
+		{
+			"lib":"thii/SwiftHEXColors",
+			"language":"Swift",
+			"stars":523,
+			"forks":80,
+			"desc":"HEX color handling as an extension for UIColor.",
+			"url":"https://github.com/thii/SwiftHEXColors"
+		},
+		{
+			"lib":"lkzhao/ElasticTransition",
+			"language":"Swift",
+			"stars":1847,
+			"forks":156,
+			"desc":"A UIKit custom transition that simulates an elastic drag. Written in Swift.",
+			"url":"https://github.com/lkzhao/ElasticTransition"
+		},
+		{
+			"lib":"JohnSundell/Files",
+			"language":"Swift",
+			"stars":1048,
+			"forks":58,
+			"desc":"A nicer way to handle files &amp; folders in Swift",
+			"url":"https://github.com/JohnSundell/Files"
+		},
+		{
+			"lib":"Ramotion/animated-tab-bar",
+			"language":"Swift",
+			"stars":8531,
+			"forks":1127,
+			"desc":" RAMAnimatedTabBarController is a Swift UI module for adding animation to tabbar items. Made by @Ramotion",
+			"url":"https://github.com/Ramotion/animated-tab-bar"
+		},
+		{
+			"lib":"Ramotion/gliding-collection",
+			"language":"Swift",
+			"stars":1158,
+			"forks":96,
+			"desc":" Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller made by @Ramotion",
+			"url":"https://github.com/Ramotion/gliding-collection"
+		},
+		{
+			"lib":"JakeWharton/DiskLruCache",
+			"language":"Java",
+			"stars":4113,
+			"forks":973,
+			"desc":"Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.",
+			"url":"https://github.com/JakeWharton/DiskLruCache"
+		},
+		{
+			"lib":"daimajia/NumberProgressBar",
+			"language":"Java",
+			"stars":4652,
+			"forks":1271,
+			"desc":"A beautiful, slim Android ProgressBar.",
+			"url":"https://github.com/daimajia/NumberProgressBar"
+		},
+		{
+			"lib":"soarcn/BottomSheet",
+			"language":"Java",
+			"stars":2020,
+			"forks":405,
+			"desc":"One way to present a set of actions to a user is with bottom sheets, a sheet of paper that slides up from the bottom edge of the screen. Bottom sheets offer flexibility in the display of clear and simple actions that do not need explanation.",
+			"url":"https://github.com/soarcn/BottomSheet"
+		},
+		{
+			"lib":"Jude95/SwipeBackHelper",
+			"language":"Java",
+			"stars":1164,
+			"forks":245,
+			"desc":"make your activity can swipe to close",
+			"url":"https://github.com/Jude95/SwipeBackHelper"
+		},
+		{
+			"lib":"ArthurHub/Android-Image-Cropper",
+			"language":"Java",
+			"stars":3056,
+			"forks":633,
+			"desc":"Image Cropping Library for Android, optimized for Camera / Gallery.",
+			"url":"https://github.com/ArthurHub/Android-Image-Cropper"
+		},
+		{
+			"lib":"sharish/ScratchView",
+			"language":"Java",
+			"stars":931,
+			"forks":157,
+			"desc":"A custom view can pull up and down,support ScrollView,ListView,RecyclerView,WebView and all another views, easy to use",
+			"url":"https://github.com/sharish/ScratchView"
+		},
+		{
+			"lib":"liaoinstan/SpringView",
+			"language":"Java",
+			"stars":1401,
+			"forks":286,
+			"desc":"A custom view can pull up and down,support ScrollView,ListView,RecyclerView,WebView and all another views, easy to use",
+			"url":"https://github.com/liaoinstan/SpringView"
+		},
+		{
+			"lib":"lijunguan/AlbumSelector",
+			"language":"Java",
+			"stars":222,
+			"forks":48,
+			"desc":"图片选择库，可以用来选择头像，或者多张图片选择， material design",
+			"url":"https://github.com/lijunguan/AlbumSelector"
+		},
+		{
+			"lib":"pili-engineering/PLDroidPlayer",
+			"language":"Java",
+			"stars":3098,
+			"forks":768,
+			"desc":"PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。",
+			"url":"https://github.com/pili-engineering/PLDroidPlayer"
+		},
+		{
+			"lib":"orfjackal/retrolambda",
+			"language":"Java",
+			"stars":3373,
+			"forks":216,
+			"desc":"Backport of Java 8's lambda expressions to Java 7, 6 and 5",
+			"url":"https://github.com/orfjackal/retrolambda"
+		},
+		{
+			"lib":"tbruyelle/RxPermissions",
+			"language":"Java",
+			"stars":5501,
+			"forks":663,
+			"desc":"Android runtime permissions powered by RxJava2",
+			"url":"https://github.com/tbruyelle/RxPermissions"
+		},
+		{
+			"lib":"bravoborja/ReadMoreTextView",
+			"language":"Java",
+			"stars":1138,
+			"forks":142,
+			"desc":"A Custom TextView with trim text",
+			"url":"https://github.com/bravoborja/ReadMoreTextView"
+		},
+		{
+			"lib":"lovetuzitong/MultiImageSelector",
+			"language":"Java",
+			"stars":2645,
+			"forks":786,
+			"desc":"Deprecated -- Image selector for Android device. Support single choice and multi-choice.",
+			"url":"https://github.com/lovetuzitong/MultiImageSelector"
+		},
+		{
+			"lib":"sw926/ImageFileSelector",
+			"language":"Java",
+			"stars":91,
+			"forks":24,
+			"desc":"Reactive Programming for Android",
+			"url":"https://github.com/sw926/ImageFileSelector"
+		},
+		{
+			"lib":"google/agera",
+			"language":"Java",
+			"stars":6952,
+			"forks":642,
+			"desc":"Reactive Programming for Android",
+			"url":"https://github.com/google/agera"
+		},
+		{
+			"lib":"Nightonke/BoomMenu",
+			"language":"Java",
+			"stars":4351,
+			"forks":852,
+			"desc":"A menu which can ... BOOM! - Android",
+			"url":"https://github.com/Nightonke/BoomMenu"
+		},
+		{
+			"lib":"Jacksgong/JKeyboardPanelSwitch",
+			"language":"Java",
+			"stars":2617,
+			"forks":461,
+			"desc":"For resolve the layout conflict when keybord &amp; panel are switching (Android键盘面板冲突 布局闪动处理方案)",
+			"url":"https://github.com/Jacksgong/JKeyboardPanelSwitch"
+		},
+		{
+			"lib":"dalong982242260/LoopRotarySwitch",
+			"language":"Java",
+			"stars":639,
+			"forks":123,
+			"desc":"3d旋转切换view，类似旋转木马效果。可以自动切换！",
+			"url":"https://github.com/dalong982242260/LoopRotarySwitch"
+		},
+		{
+			"lib":"flschweiger/SwipeStack",
+			"language":"Java",
+			"stars":1287,
+			"forks":208,
+			"desc":"A simple, customizable and easy to use swipeable view stack for Android.",
+			"url":"https://github.com/flschweiger/SwipeStack"
+		},
+		{
+			"lib":"Huyamin150/-dampView-springingView",
+			"language":"Java",
+			"stars":729,
+			"forks":127,
+			"desc":"一款加载动画，不同的物体加速下落砸到了文字上，文字逞阻尼效果，向下弯曲并像橡皮筋一样弹动回去的效果",
+			"url":"https://github.com/Huyamin150/-dampView-springingView"
+		},
+		{
+			"lib":"Devlight/NavigationTabBar",
+			"language":"Java",
+			"stars":3694,
+			"forks":627,
+			"desc":"Navigation tab bar with colorful interactions.",
+			"url":"https://github.com/Devlight/NavigationTabBar"
+		},
+		{
+			"lib":"umano/AndroidSlidingUpPanel",
+			"language":"Java",
+			"stars":7193,
+			"forks":2043,
+			"desc":"This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application. Brought to you by Umano.",
+			"url":"https://github.com/umano/AndroidSlidingUpPanel"
+		},
+		{
+			"lib":"futuresimple/android-floating-action-button",
+			"language":"Java",
+			"stars":5277,
+			"forks":1420,
+			"desc":"Floating Action Button for Android based on Material Design specification",
+			"url":"https://github.com/futuresimple/android-floating-action-button"
+		},
+		{
+			"lib":"pungrue26/SelectableRoundedImageView",
+			"language":"Java",
+			"stars":889,
+			"forks":208,
+			"desc":"Android ImageView that supports different radii on each corner.",
+			"url":"https://github.com/pungrue26/SelectableRoundedImageView"
+		},
+		{
+			"lib":"square/dagger",
+			"language":"Java",
+			"stars":6627,
+			"forks":2218,
+			"desc":"A fast dependency injector for Android and Java.",
+			"url":"https://github.com/square/dagger"
+		},
+		{
+			"lib":"siyamed/android-shape-imageview",
+			"language":"Java",
+			"stars":2082,
+			"forks":565,
+			"desc":"Custom shaped android imageview components",
+			"url":"https://github.com/siyamed/android-shape-imageview"
+		},
+		{
+			"lib":"flavioarfaria/KenBurnsView",
+			"language":"Java",
+			"stars":2093,
+			"forks":369,
+			"desc":"Android ImageViews animated by Ken Burns Effect",
+			"url":"https://github.com/flavioarfaria/KenBurnsView"
+		},
+		{
+			"lib":"Bilibili/DanmakuFlameMaster",
+			"language":"Java",
+			"stars":6381,
+			"forks":1671,
+			"desc":"Android开源弹幕引擎·烈焰弹幕使 ～",
+			"url":"https://github.com/Bilibili/DanmakuFlameMaster"
+		},
+		{
+			"lib":"XXApple/AndroidLibs",
+			"language":"Java",
+			"stars":3558,
+			"forks":910,
+			"desc":"正在成为史上最全分类 Android 开源大全~~~~（长期更新 Star 一下吧）",
+			"url":"https://github.com/XXApple/AndroidLibs"
+		},
+		{
+			"lib":"google/ExoPlayer",
+			"language":"Java",
+			"stars":8948,
+			"forks":2942,
+			"desc":"An extensible media player for Android",
+			"url":"https://github.com/google/ExoPlayer"
+		},
+		{
+			"lib":"rubensousa/RecyclerViewSnap",
+			"language":"Java",
+			"stars":3074,
+			"forks":405,
+			"desc":"RecyclerView snapping example with SnapHelper",
+			"url":"https://github.com/rubensousa/RecyclerViewSnap"
+		},
+		{
+			"lib":"permissions-dispatcher/PermissionsDispatcher",
+			"language":"Java",
+			"stars":6570,
+			"forks":972,
+			"desc":"Simple annotation-based API to handle runtime permissions.",
+			"url":"https://github.com/permissions-dispatcher/PermissionsDispatcher"
+		},
+		{
+			"lib":"rubensousa/ViewPagerCards",
+			"language":"Java",
+			"stars":2957,
+			"forks":441,
+			"desc":"ViewPager cards inspired by Duolingo",
+			"url":"https://github.com/rubensousa/ViewPagerCards"
+		},
+		{
+			"lib":"armcha/Space-Navigation-View",
+			"language":"Java",
+			"stars":1465,
+			"forks":270,
+			"desc":"Space Navigation is a library allowing easily integrate fully customizable Google Spaces like navigation to your app.",
+			"url":"https://github.com/armcha/Space-Navigation-View"
+		},
+		{
+			"lib":"DroidNinja/Android-FilePicker",
+			"language":"Java",
+			"stars":1396,
+			"forks":265,
+			"desc":"Photopicker and document picker for android",
+			"url":"https://github.com/DroidNinja/Android-FilePicker"
+		},
+		{
+			"lib":"Devlight/InfiniteCycleViewPager",
+			"language":"Java",
+			"stars":4539,
+			"forks":673,
+			"desc":"Infinite cycle ViewPager with two-way orientation and interactive effect.",
+			"url":"https://github.com/Devlight/InfiniteCycleViewPager"
+		},
+		{
+			"lib":"LuckyJayce/ViewPagerIndicator",
+			"language":"Java",
+			"stars":1902,
+			"forks":577,
+			"desc":"Indicator 取代 tabhost，实现网易顶部tab，新浪微博主页底部tab，引导页，无限轮播banner等效果，高度自定义tab和特效",
+			"url":"https://github.com/LuckyJayce/ViewPagerIndicator"
+		},
+		{
+			"lib":"yipianfengye/android-adDialog",
+			"language":"Java",
+			"stars":2224,
+			"forks":452,
+			"desc":"一个简单，强大的广告活动弹窗控件",
+			"url":"https://github.com/yipianfengye/android-adDialog"
+		},
+		{
+			"lib":"yanzhenjie/SwipeRecyclerView",
+			"language":"Java",
+			"stars":2762,
+			"forks":697,
+			"desc":"👍 RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，HeaderView，FooterView，Item分组黏贴。",
+			"url":"https://github.com/yanzhenjie/SwipeRecyclerView"
+		},
+		{
+			"lib":"dinuscxj/PullZoomRecyclerView",
+			"language":"Java",
+			"stars":412,
+			"forks":89,
+			"desc":"A pull to zoom-in RecyclerView for android",
+			"url":"https://github.com/dinuscxj/PullZoomRecyclerView"
+		},
+		{
+			"lib":"robinhood/ticker",
+			"language":"Java",
+			"stars":2882,
+			"forks":320,
+			"desc":"An Android text view with scrolling text change animation",
+			"url":"https://github.com/robinhood/ticker"
+		},
+		{
+			"lib":"zzhoujay/RichText",
+			"language":"Java",
+			"stars":1939,
+			"forks":330,
+			"desc":"Android平台下的富文本解析器，支持Html和Markdown",
+			"url":"https://github.com/zzhoujay/RichText"
+		},
+		{
+			"lib":"zzhoujay/Markdown",
+			"language":"Java",
+			"stars":578,
+			"forks":63,
+			"desc":"Android平台下的原生Markdown解析器",
+			"url":"https://github.com/zzhoujay/Markdown"
+		},
+		{
+			"lib":"Curzibn/Luban",
+			"language":"Java",
+			"stars":6825,
+			"forks":1286,
+			"desc":"Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法",
+			"url":"https://github.com/Curzibn/Luban"
+		},
+		{
+			"lib":"Blankj/AndroidUtilCode",
+			"language":"Java",
+			"stars":15922,
+			"forks":5163,
+			"desc":"🔥 Android developers should collect the following utils(updating).",
+			"url":"https://github.com/Blankj/AndroidUtilCode"
+		},
+		{
+			"lib":"takahirom/webview-in-coordinatorlayout",
+			"language":"Java",
+			"stars":151,
+			"forks":40,
+			"desc":"An Android library to detect when a user has taken a screenshot of your app",
+			"url":"https://github.com/takahirom/webview-in-coordinatorlayout"
+		},
+		{
+			"lib":"Esc861/ScreenshotListener",
+			"language":"Java",
+			"stars":0,
+			"forks":881,
+			"desc":"An Android library to detect when a user has taken a screenshot of your app",
+			"url":"https://github.com/Esc861/ScreenshotListener"
+		},
+		{
+			"lib":"beworker/pinned-section-listview",
+			"language":"Java",
+			"stars":2539,
+			"forks":881,
+			"desc":"Easy to use ListView with pinned sections for Android.",
+			"url":"https://github.com/beworker/pinned-section-listview"
+		},
+		{
+			"lib":"google/gson",
+			"language":"HTML",
+			"stars":11502,
+			"forks":2468,
+			"desc":"A Java serialization/deserialization library to convert Java Objects into JSON and back",
+			"url":"https://github.com/google/gson"
+		},
+		{
+			"lib":"XunMengWinter/CircularAnim",
+			"language":"Java",
+			"stars":1701,
+			"forks":281,
+			"desc":"Android ripple animation helper, easy to create Circular Reveal. | Android水波动画帮助类，轻松实现View show/hide/startActivity()特效。(0.3.3)",
+			"url":"https://github.com/XunMengWinter/CircularAnim"
+		},
+		{
+			"lib":"Flipboard/bottomsheet",
+			"language":"Java",
+			"stars":3589,
+			"forks":509,
+			"desc":"Android component which presents a dismissible view from the bottom of the screen",
+			"url":"https://github.com/Flipboard/bottomsheet"
+		},
+		{
+			"lib":"niorgai/StatusBarCompat",
+			"language":"Java",
+			"stars":1595,
+			"forks":281,
+			"desc":"Status Bar Utils ---- Change Status Bar Mode Simply",
+			"url":"https://github.com/niorgai/StatusBarCompat"
+		},
+		{
+			"lib":"booncol/Pulsator4Droid",
+			"language":"Java",
+			"stars":816,
+			"forks":145,
+			"desc":"Pulse animation for Android",
+			"url":"https://github.com/booncol/Pulsator4Droid"
+		},
+		{
+			"lib":"wordpress-mobile/WordPress-Android",
+			"language":"Java",
+			"stars":1649,
+			"forks":883,
+			"desc":"WordPress for Android",
+			"url":"https://github.com/wordpress-mobile/WordPress-Android"
+		},
+		{
+			"lib":"andremion/Music-Player",
+			"language":"Java",
+			"stars":2796,
+			"forks":560,
+			"desc":"From UI Proposal to Code 🎶▶️",
+			"url":"https://github.com/andremion/Music-Player"
+		},
+		{
+			"lib":"xmuSistone/AnimRichEditor",
+			"language":"Java",
+			"stars":839,
+			"forks":182,
+			"desc":"rich text editor which enables users to insert/delete bitmaps and text into edit-view with animations.",
+			"url":"https://github.com/xmuSistone/AnimRichEditor"
+		},
+		{
+			"lib":"baoyachi/StepView",
+			"language":"Java",
+			"stars":2998,
+			"forks":648,
+			"desc":"Step by step，just use HorizontalStepView，VerticalStepView. step indicator，flow indicator，timeline，order process，express status",
+			"url":"https://github.com/baoyachi/StepView"
+		},
+		{
+			"lib":"google/dagger",
+			"language":"Java",
+			"stars":9607,
+			"forks":2218,
+			"desc":"A fast dependency injector for Android and Java.",
+			"url":"https://github.com/google/dagger"
+		},
+		{
+			"lib":"Bilibili/MagicaSakura",
+			"language":"Java",
+			"stars":2502,
+			"forks":356,
+			"desc":"MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme.",
+			"url":"https://github.com/Bilibili/MagicaSakura"
+		},
+		{
+			"lib":"lipangit/JiaoZiVideoPlayer",
+			"language":"Java",
+			"stars":5954,
+			"forks":1534,
+			"desc":"Android VideoPlayer MediaPlayer VideoView MediaView Float View And Fullscreen",
+			"url":"https://github.com/lipangit/JiaoZiVideoPlayer"
+		},
+		{
+			"lib":"soffes/SAMKeychain",
+			"language":"Objective-C",
+			"stars":4696,
+			"forks":845,
+			"desc":"Simple Objective-C wrapper for the keychain that works on Mac and iOS",
+			"url":"https://github.com/soffes/SAMKeychain"
+		},
+		{
+			"lib":"kishikawakatsumi/KeychainAccess",
+			"language":"Swift",
+			"stars":3572,
+			"forks":362,
+			"desc":"Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.",
+			"url":"https://github.com/kishikawakatsumi/KeychainAccess"
+		},
+		{
+			"lib":"krzyzanowskim/CryptoSwift",
+			"language":"Swift",
+			"stars":5011,
+			"forks":593,
+			"desc":"CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift",
+			"url":"https://github.com/krzyzanowskim/CryptoSwift"
+		},
+		{
+			"lib":"eddiekaiger/SwiftyAttributes",
+			"language":"Swift",
+			"stars":913,
+			"forks":39,
+			"desc":"A Swifty API for attributed strings",
+			"url":"https://github.com/eddiekaiger/SwiftyAttributes"
+		},
+		{
+			"lib":"mac-cain13/R.swift",
+			"language":"Swift",
+			"stars":4541,
+			"forks":273,
+			"desc":"Get strong typed, autocompleted resources like images, fonts and segues in Swift projects",
+			"url":"https://github.com/mac-cain13/R.swift"
+		},
+		{
+			"lib":"AliSoftware/Reusable",
+			"language":"Swift",
+			"stars":1415,
+			"forks":106,
+			"desc":"A Swift mixin for reusing views easily and in a type-safe way (UITableViewCells, UICollectionViewCells, custom UIViews, ViewControllers, Storyboards…)",
+			"url":"https://github.com/AliSoftware/Reusable"
+		},
+		{
+			"lib":"onevcat/Kingfisher",
+			"language":"Swift",
+			"stars":10824,
+			"forks":1216,
+			"desc":"A lightweight, pure-Swift library for downloading and caching images from the web.",
+			"url":"https://github.com/onevcat/Kingfisher"
+		},
+		{
+			"lib":"SwiftOldDriver/SwiftMarch",
+			"language":"Java",
+			"stars":475,
+			"forks":69,
+			"desc":"🚀 从开发者角度介绍被广泛运用于实际Swift项目中的开源库。",
+			"url":"https://github.com/SwiftOldDriver/SwiftMarch"
+		},
+		{
+			"lib":"Konloch/bytecode-viewer",
+			"language":"Java",
+			"stars":9026,
+			"forks":424,
+			"desc":"A Java 8 Jar &amp; Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger &amp; More)",
+			"url":"https://github.com/Konloch/bytecode-viewer"
+		},
+		{
+			"lib":"Carthage/Carthage",
+			"language":"Swift",
+			"stars":10989,
+			"forks":1023,
+			"desc":"A simple, decentralized dependency manager for Cocoa",
+			"url":"https://github.com/Carthage/Carthage"
+		},
+		{
+			"lib":"TKkk-iOSer/WeChatPlugin-MacOS",
+			"language":"Objective-C",
+			"stars":3219,
+			"forks":416,
+			"desc":"mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开、会话置底、免认证登录、窗口置顶、会话多选删除",
+			"url":"https://github.com/TKkk-iOSer/WeChatPlugin-MacOS"
+		},
+		{
+			"lib":"ChavezChen/CWLateralSlide",
+			"language":"Objective-C",
+			"stars":380,
+			"forks":73,
+			"desc":"One line of code to integrate 0 coupling side drawer！一行代码集成0耦合侧滑抽屉！",
+			"url":"https://github.com/ChavezChen/CWLateralSlide"
+		},
+		{
+			"lib":"wangmchn/WMPageController-Swift",
+			"language":"Swift",
+			"stars":92,
+			"forks":19,
+			"desc":"An easy solution to page controllers like NetEase News.(Swift Implementation)",
+			"url":"https://github.com/wangmchn/WMPageController-Swift"
+		},
+		{
+			"lib":"mengxianliang/XLChannelControl",
+			"language":"Objective-C",
+			"stars":91,
+			"forks":43,
+			"desc":"iOS 仿腾讯新闻客户端的频道管理功能",
+			"url":"https://github.com/mengxianliang/XLChannelControl"
+		},
+		{
+			"lib":"HelloYeah/DraggingSort",
+			"language":"Objective-C",
+			"stars":230,
+			"forks":58,
+			"desc":"长按拖拽排序",
+			"url":"https://github.com/HelloYeah/DraggingSort"
+		},
+		{
+			"lib":"nvzqz/RandomKit",
+			"language":"Swift",
+			"stars":1287,
+			"forks":65,
+			"desc":"Random data generation in Swift",
+			"url":"https://github.com/nvzqz/RandomKit"
+		},
+		{
+			"lib":"mamaral/Onboard",
+			"language":"Objective-C",
+			"stars":5993,
+			"forks":764,
+			"desc":"An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.",
+			"url":"https://github.com/mamaral/Onboard"
+		},
+		{
+			"lib":"netguru/ResponseDetective",
+			"language":"Swift",
+			"stars":1708,
+			"forks":75,
+			"desc":"Sherlock Holmes of the networking layer. 🕵️",
+			"url":"https://github.com/netguru/ResponseDetective"
+		},
+		{
+			"lib":"nvzqz/FileKit",
+			"language":"Swift",
+			"stars":1726,
+			"forks":148,
+			"desc":"Simple and expressive file management in Swift",
+			"url":"https://github.com/nvzqz/FileKit"
+		},
+		{
+			"lib":"ViccAlexander/Chameleon",
+			"language":"Objective-C",
+			"stars":10639,
+			"forks":1032,
+			"desc":"Flat Color Framework for iOS (Obj-C &amp; Swift)",
+			"url":"https://github.com/ViccAlexander/Chameleon"
+		},
+		{
+			"lib":"square/Valet",
+			"language":"Objective-C",
+			"stars":2840,
+			"forks":149,
+			"desc":"Valet lets you securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.",
+			"url":"https://github.com/square/Valet"
+		},
+		{
+			"lib":"vsouza/awesome-ios",
+			"language":"Swift",
+			"stars":23669,
+			"forks":3984,
+			"desc":"A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects",
+			"url":"https://github.com/vsouza/awesome-ios"
+		},
+		{
+			"lib":"EyreFree/EFQRCode",
+			"language":"Swift",
+			"stars":2507,
+			"forks":240,
+			"desc":"A better way to operate quick response code in Swift.",
+			"url":"https://github.com/EyreFree/EFQRCode"
+		},
+		{
+			"lib":"patchthecode/JTAppleCalendar",
+			"language":"Swift",
+			"stars":4269,
+			"forks":383,
+			"desc":"The Unofficial Apple iOS Swift Calendar View. iOS calendar Library. iOS calendar Control. 100% Customizable",
+			"url":"https://github.com/patchthecode/JTAppleCalendar"
+		},
+		{
+			"lib":"yhaolpz/FloatWindow",
+			"language":"Java",
+			"stars":1337,
+			"forks":136,
+			"desc":"Andorid 任意界面悬浮窗，实现悬浮窗如此简单",
+			"url":"https://github.com/yhaolpz/FloatWindow"
+		},
+		{
+			"lib":"qfish/XAlign",
+			"language":"Objective-C",
+			"stars":2755,
+			"forks":422,
+			"desc":"An amazing Xcode Source Editor extension to align regular code. It can align Xnything in any way you want.",
+			"url":"https://github.com/qfish/XAlign"
+		},
+		{
+			"lib":"halfrost/Halfrost-Field",
+			"language":"Objective-C",
+			"stars":1416,
+			"forks":258,
+			"desc":"✍️ 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
+			"url":"https://github.com/halfrost/Halfrost-Field"
+		},
+		{
+			"lib":"longitachi/ZLPhotoBrowser",
+			"language":"Objective-C",
+			"stars":1721,
+			"forks":330,
+			"desc":"方便易用的相册多选框架，支持预览/相册内拍照及录视频、拖拽/滑动选择，3DTouch预览，编辑裁剪图片/视频，导出视频(可添加水印，粒子特效，视频转码)；支持多语言国际化(中文简/繁，英语，日语，可手动切换)；在线下载iCloud端图片；支持预览网络及本地图片/视频",
+			"url":"https://github.com/longitachi/ZLPhotoBrowser"
+		},
+		{
+			"lib":"quicktype/quicktype-xcode",
+			"language":"JavaScript",
+			"stars":1119,
+			"forks":23,
+			"desc":"Xcode extension to paste JSON as Swift, Objective-C, and more",
+			"url":"https://github.com/quicktype/quicktype-xcode"
+		},
+		{
+			"lib":"easyworld/PlayJumpJumpWithMouse",
+			"language":"Java",
+			"stars":381,
+			"forks":91,
+			"desc":"用鼠标玩微信跳一跳",
+			"url":"https://github.com/easyworld/PlayJumpJumpWithMouse"
+		},
+		{
+			"lib":"evrencoskun/TableView",
+			"language":"Java",
+			"stars":1194,
+			"forks":104,
+			"desc":"TableView is a powerful Android library for displaying complex data structures and rendering tabular data composed of rows, columns and cells.",
+			"url":"https://github.com/evrencoskun/TableView"
+		},
+		{
+			"lib":"wangshub/wechat_jump_game",
+			"language":"Python",
+			"stars":12879,
+			"forks":4553,
+			"desc":"python 微信《跳一跳》辅助",
+			"url":"https://github.com/wangshub/wechat_jump_game"
+		},
+		{
+			"lib":"SoySauceLab/CollectionKit",
+			"language":"Swift",
+			"stars":2099,
+			"forks":81,
+			"desc":"Reimagining UICollectionView",
+			"url":"https://github.com/SoySauceLab/CollectionKit"
+		},
+		{
+			"lib":"ninjaprox/NVActivityIndicatorView",
+			"language":"Swift",
+			"stars":6464,
+			"forks":687,
+			"desc":"A collection of awesome loading animations",
+			"url":"https://github.com/ninjaprox/NVActivityIndicatorView"
+		},
+		{
+			"lib":"renzifeng/ZFPlayer",
+			"language":"Objective-C",
+			"stars":3994,
+			"forks":962,
+			"desc":"Based on AVPlayer, support the vertical, horizontal screen(lock screen direction). Support adjust volume, brigtness and video progress.基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。",
+			"url":"https://github.com/renzifeng/ZFPlayer"
+		},
+		{
+			"lib":"uber/NullAway",
+			"language":"Java",
+			"stars":1648,
+			"forks":98,
+			"desc":"A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead",
+			"url":"https://github.com/uber/NullAway"
+		},
+		{
+			"lib":"CRAnimation/CRAnimation",
+			"language":"Objective-C",
+			"stars":371,
+			"forks":91,
+			"desc":"CRAnimation",
+			"url":"https://github.com/CRAnimation/CRAnimation"
+		},
+		{
+			"lib":"citrusbyte/Auto-Importer-for-Xcode",
+			"language":"Objective-C",
+			"stars":581,
+			"forks":62,
+			"desc":"Plugin for Xcode to quickly import your headers on the fly.",
+			"url":"https://github.com/citrusbyte/Auto-Importer-for-Xcode"
+		},
+		{
+			"lib":"liutongchao/Autobuild",
+			"language":"Python",
+			"stars":16,
+			"forks":0,
+			"desc":"A collection of animation examples for iOS apps.",
+			"url":"https://github.com/liutongchao/Autobuild"
+		},
+		{
+			"lib":"schneiderandre/popping",
+			"language":"Objective-C",
+			"stars":5378,
+			"forks":731,
+			"desc":"A collection of animation examples for iOS apps.",
+			"url":"https://github.com/schneiderandre/popping"
+		},
+		{
+			"lib":"BradLarson/GPUImage",
+			"language":"Objective-C",
+			"stars":16911,
+			"forks":4150,
+			"desc":"An open source iOS framework for GPU-based image and video processing",
+			"url":"https://github.com/BradLarson/GPUImage"
+		},
+		{
+			"lib":"Lomotif/swipe-navigation",
+			"language":"Swift",
+			"stars":30,
+			"forks":0,
+			"desc":"Snapchat like 4-way swipe navigation in Swift for iOS",
+			"url":"https://github.com/Lomotif/swipe-navigation"
+		},
+		{
+			"lib":"kevinzhow/PNChart",
+			"language":"Objective-C",
+			"stars":9079,
+			"forks":1785,
+			"desc":"A simple and beautiful chart lib used in Piner and CoinsMan for iOS",
+			"url":"https://github.com/kevinzhow/PNChart"
+		},
+		{
+			"lib":"jdg/MBProgressHUD",
+			"language":"Objective-C",
+			"stars":14242,
+			"forks":3386,
+			"desc":"MBProgressHUD + Customizations",
+			"url":"https://github.com/jdg/MBProgressHUD"
+		},
+		{
+			"lib":"SnapKit/SnapKit",
+			"language":"Swift",
+			"stars":11895,
+			"forks":1198,
+			"desc":"A Swift Autolayout DSL for iOS &amp; OS X",
+			"url":"https://github.com/SnapKit/SnapKit"
+		},
+		{
+			"lib":"cwRichardKim/RKSwipeCards",
+			"language":"Objective-C",
+			"stars":2056,
+			"forks":24,
+			"desc":"The basics of a swipeable card interface inspired by Tinder",
+			"url":"https://github.com/cwRichardKim/RKSwipeCards"
+		},
+		{
+			"lib":"codingZero/XRWaterfallLayout",
+			"language":"Objective-C",
+			"stars":169,
+			"forks":35,
+			"desc":"瀑布流布局",
+			"url":"https://github.com/codingZero/XRWaterfallLayout"
+		},
+		{
+			"lib":"421696067/UIollectionViewLayout",
+			"language":"Objective-C",
+			"stars":27,
+			"forks":16,
+			"desc":"自定义的三种UIcollectionViewlayout",
+			"url":"https://github.com/421696067/UIollectionViewLayout"
+		},
+		{
+			"lib":"12207480/TYCyclePagerView",
+			"language":"Objective-C",
+			"stars":484,
+			"forks":98,
+			"desc":"a simple and usefull cycle pager view ,and auto scroll banner view(轮播图) ,include pageControl for iOS,support Objective-C and swift",
+			"url":"https://github.com/12207480/TYCyclePagerView"
+		},
+		{
+			"lib":"lkzhao/Hero",
+			"language":"Swift",
+			"stars":12197,
+			"forks":899,
+			"desc":"Elegant transition library for iOS &amp; tvOS",
+			"url":"https://github.com/lkzhao/Hero"
+		},
+		{
+			"lib":"dennisweissmann/DeviceKit",
+			"language":"Swift",
+			"stars":1772,
+			"forks":170,
+			"desc":"DeviceKit is a value-type replacement of UIDevice.",
+			"url":"https://github.com/dennisweissmann/DeviceKit"
+		},
+		{
+			"lib":"danielgindi/Charts",
+			"language":"Swift",
+			"stars":17112,
+			"forks":3223,
+			"desc":"Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+			"url":"https://github.com/danielgindi/Charts"
+		},
+		{
+			"lib":"MortimerGoro/MGSwipeTableCell",
+			"language":"Objective-C",
+			"stars":6054,
+			"forks":970,
+			"desc":"An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.",
+			"url":"https://github.com/MortimerGoro/MGSwipeTableCell"
+		},
+		{
+			"lib":"ReactiveX/RxSwift",
+			"language":"Swift",
+			"stars":12181,
+			"forks":1908,
+			"desc":"Reactive Programming in Swift",
+			"url":"https://github.com/ReactiveX/RxSwift"
+		},
+		{
+			"lib":"MailOnline/ImageViewer",
+			"language":"Swift",
+			"stars":1684,
+			"forks":204,
+			"desc":"An image viewer à la Twitter",
+			"url":"https://github.com/MailOnline/ImageViewer"
+		},
+		{
+			"lib":"radex/SwiftyUserDefaults",
+			"language":"Swift",
+			"stars":3029,
+			"forks":217,
+			"desc":"Modern Swift API for NSUserDefaults",
+			"url":"https://github.com/radex/SwiftyUserDefaults"
+		},
+		{
+			"lib":"nickoneill/PermissionScope",
+			"language":"Swift",
+			"stars":4690,
+			"forks":471,
+			"desc":"Intelligent iOS permissions UI and unified API",
+			"url":"https://github.com/nickoneill/PermissionScope"
+		},
+		{
+			"lib":"Moya/Moya",
+			"language":"Swift",
+			"stars":7989,
+			"forks":956,
+			"desc":"Network abstraction layer written in Swift.",
+			"url":"https://github.com/Moya/Moya"
+		},
+		{
+			"lib":"SwiftyJSON/SwiftyJSON",
+			"language":"Swift",
+			"stars":16274,
+			"forks":2802,
+			"desc":"The better way to deal with JSON data in Swift",
+			"url":"https://github.com/SwiftyJSON/SwiftyJSON"
+		},
+		{
+			"lib":"Instagram/IGListKit",
+			"language":"Objective-C",
+			"stars":7509,
+			"forks":734,
+			"desc":"A data-driven UICollectionView framework for building fast and flexible lists.",
+			"url":"https://github.com/Instagram/IGListKit"
+		},
+		{
+			"lib":"XRecyclerView/XRecyclerView",
+			"language":"Java",
+			"stars":3816,
+			"forks":1069,
+			"desc":"a RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView",
+			"url":"https://github.com/XRecyclerView/XRecyclerView"
+		},
+		{
+			"lib":"timehop/sticky-headers-recyclerview",
+			"language":"Java",
+			"stars":3142,
+			"forks":674,
+			"desc":"[UNMAINTAINED] Sticky Headers decorator for Android's RecyclerView",
+			"url":"https://github.com/timehop/sticky-headers-recyclerview"
+		},
+		{
+			"lib":"lucasr/twoway-view",
+			"language":"Java",
+			"stars":5118,
+			"forks":1064,
+			"desc":"[DEPRECATED] RecyclerView made simple",
+			"url":"https://github.com/lucasr/twoway-view"
+		},
+		{
+			"lib":"wasabeef/recyclerview-animators",
+			"language":"Java",
+			"stars":7458,
+			"forks":1541,
+			"desc":"An Android Animation library which easily add itemanimator to RecyclerView items.",
+			"url":"https://github.com/wasabeef/recyclerview-animators"
+		},
+		{
+			"lib":"CymChad/BaseRecyclerViewAdapterHelper",
+			"language":"Java",
+			"stars":11967,
+			"forks":2624,
+			"desc":"BRVAH:Powerful and flexible RecyclerAdapter",
+			"url":"https://github.com/CymChad/BaseRecyclerViewAdapterHelper"
+		},
+		{
+			"lib":"pwnall/chromeview",
+			"language":"Java",
+			"stars":1546,
+			"forks":431,
+			"desc":"Proof of concept Android WebView implementation based on Chromium code",
+			"url":"https://github.com/pwnall/chromeview"
+		},
+		{
+			"lib":"jeasonlzy/okhttp-OkGo",
+			"language":"Java",
+			"stars":6749,
+			"forks":1796,
+			"desc":"OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能",
+			"url":"https://github.com/jeasonlzy/okhttp-OkGo"
+		},
+		{
+			"lib":"zetbaitsu/Compressor",
+			"language":"Java",
+			"stars":3054,
+			"forks":475,
+			"desc":"An android image compression library.",
+			"url":"https://github.com/zetbaitsu/Compressor"
+		},
+		{
+			"lib":"AnderWeb/discreteSeekBar",
+			"language":"Java",
+			"stars":1911,
+			"forks":391,
+			"desc":"Abstraction for the usual BaseAdapter ViewHolder pattern",
+			"url":"https://github.com/AnderWeb/discreteSeekBar"
+		},
+		{
+			"lib":"JoanZapata/base-adapter-helper",
+			"language":"Java",
+			"stars":1683,
+			"forks":566,
+			"desc":"Abstraction for the usual BaseAdapter ViewHolder pattern",
+			"url":"https://github.com/JoanZapata/base-adapter-helper"
+		},
+		{
+			"lib":"captain-miao/AndroidAgeraTutorial",
+			"language":"Java",
+			"stars":388,
+			"forks":40,
+			"desc":"Android Agera Example",
+			"url":"https://github.com/captain-miao/AndroidAgeraTutorial"
+		},
+		{
+			"lib":"wuhaoyu1990/MagicCamera",
+			"language":"Java",
+			"stars":2874,
+			"forks":1012,
+			"desc":"Real-time Filter Camera&amp;VideoRecorder And ImageEditor With Face Beauty For Android---包含美颜等40余种实时滤镜相机，可拍照、录像、图片修改",
+			"url":"https://github.com/wuhaoyu1990/MagicCamera"
+		},
+		{
+			"lib":"lingochamp/ShareLoginLib",
+			"language":"Java",
+			"stars":658,
+			"forks":162,
+			"desc":"ThirdParty login and share lib",
+			"url":"https://github.com/lingochamp/ShareLoginLib"
+		},
+		{
+			"lib":"Nightonke/JellyToggleButton",
+			"language":"Java",
+			"stars":772,
+			"forks":100,
+			"desc":"Cute and colorful toggle button with 18 jelly types and 30 ease types.",
+			"url":"https://github.com/Nightonke/JellyToggleButton"
+		},
+		{
+			"lib":"badoualy/stepper-indicator",
+			"language":"Java",
+			"stars":1209,
+			"forks":204,
+			"desc":"Step indicator for onboarding or simple viewpager",
+			"url":"https://github.com/badoualy/stepper-indicator"
+		},
+		{
+			"lib":"aritraroy/PinLockView",
+			"language":"Java",
+			"stars":1008,
+			"forks":150,
+			"desc":"A clean, minimal, highly customizable pin lock view for Android",
+			"url":"https://github.com/aritraroy/PinLockView"
+		},
+		{
+			"lib":"jgilfelt/android-viewbadger",
+			"language":"Java",
+			"stars":2933,
+			"forks":1095,
+			"desc":"[DEPRECATED] A simple way to badge any given Android view at runtime without having to cater for it in layout",
+			"url":"https://github.com/jgilfelt/android-viewbadger"
+		},
+		{
+			"lib":"hdodenhof/CircleImageView",
+			"language":"Java",
+			"stars":8947,
+			"forks":2280,
+			"desc":"A circular ImageView for Android",
+			"url":"https://github.com/hdodenhof/CircleImageView"
+		},
+		{
+			"lib":"kingideayou/SlideBottomPanel",
+			"language":"Java",
+			"stars":731,
+			"forks":157,
+			"desc":"底部划动菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView",
+			"url":"https://github.com/kingideayou/SlideBottomPanel"
+		},
+		{
+			"lib":"Zomato/AndroidPhotoFilters",
+			"language":"Java",
+			"stars":1848,
+			"forks":300,
+			"desc":"AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media.",
+			"url":"https://github.com/Zomato/AndroidPhotoFilters"
+		},
+		{
+			"lib":"jeasonlzy/HeaderViewPager",
+			"language":"Java",
+			"stars":489,
+			"forks":140,
+			"desc":"具有共同头部的 ViewPager，支持与ListView，GridView，ScrollView，WebView，RecyclerView 嵌套使用。具有连续的滑动事件 和 滑动监听， 支持下拉刷新。",
+			"url":"https://github.com/jeasonlzy/HeaderViewPager"
+		},
+		{
+			"lib":"Azoft/CarouselLayoutManager",
+			"language":"Java",
+			"stars":1455,
+			"forks":221,
+			"desc":"Android Carousel LayoutManager for RecyclerView",
+			"url":"https://github.com/Azoft/CarouselLayoutManager"
+		},
+		{
+			"lib":"wasabeef/glide-transformations",
+			"language":"Java",
+			"stars":5483,
+			"forks":898,
+			"desc":"An Android transformation library providing a variety of image transformations for Glide.",
+			"url":"https://github.com/wasabeef/glide-transformations"
+		},
+		{
+			"lib":"vinc3m1/RoundedImageView",
+			"language":"Java",
+			"stars":4565,
+			"forks":1038,
+			"desc":"A fast ImageView that supports rounded corners, ovals, and circles.",
+			"url":"https://github.com/vinc3m1/RoundedImageView"
+		},
+		{
+			"lib":"h4de5ing/AndroidCommon",
+			"language":"Java",
+			"stars":768,
+			"forks":222,
+			"desc":"基于Android系统Api封装常用工具类",
+			"url":"https://github.com/h4de5ing/AndroidCommon"
+		},
+		{
+			"lib":"kaedea/Andriod-Seamless-ViewPager-Header",
+			"language":"Java",
+			"stars":128,
+			"forks":41,
+			"desc":"SeamlessViewpagerHeader offers a Viewpager with a scrollable header, like Android Lollipop Contacts or Google Play Pagers.",
+			"url":"https://github.com/kaedea/Andriod-Seamless-ViewPager-Header"
+		},
+		{
+			"lib":"liaohuqiu/android-cube-app",
+			"language":"Java",
+			"stars":1000,
+			"forks":319,
+			"desc":"Android library to observe scroll events on scrollable views.",
+			"url":"https://github.com/liaohuqiu/android-cube-app"
+		},
+		{
+			"lib":"ksoichiro/Android-ObservableScrollView",
+			"language":"Java",
+			"stars":8489,
+			"forks":2052,
+			"desc":"Android library to observe scroll events on scrollable views.",
+			"url":"https://github.com/ksoichiro/Android-ObservableScrollView"
+		},
+		{
+			"lib":"Devlight/NavigationTabStrip",
+			"language":"Java",
+			"stars":1676,
+			"forks":243,
+			"desc":"Navigation tab strip with smooth interaction.",
+			"url":"https://github.com/Devlight/NavigationTabStrip"
+		},
+		{
+			"lib":"skylot/jadx",
+			"language":"Java",
+			"stars":13733,
+			"forks":1253,
+			"desc":"Dex to Java decompiler",
+			"url":"https://github.com/skylot/jadx"
+		}]
+}

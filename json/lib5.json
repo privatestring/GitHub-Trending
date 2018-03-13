@@ -1,0 +1,467 @@
+{
+	"joker_star":[
+		{
+			"lib":"kgabis/parson",
+			"language":"C",
+			"stars":582,
+			"forks":139,
+			"desc":"Lightweight JSON library written in C.",
+			"url":"https://github.com/kgabis/parson"
+		},
+		{
+			"lib":"ccxvii/mujs",
+			"language":"C",
+			"stars":275,
+			"forks":31,
+			"desc":"An embeddable Javascript interpreter in C.",
+			"url":"https://github.com/ccxvii/mujs"
+		},
+		{
+			"lib":"nim-lang/opengl",
+			"language":"Nim",
+			"stars":33,
+			"forks":22,
+			"desc":"android orm, bitmap, http, view inject...",
+			"url":"https://github.com/nim-lang/opengl"
+		},
+		{
+			"lib":"wyouflf/xUtils3",
+			"language":"Java",
+			"stars":4745,
+			"forks":1860,
+			"desc":"android orm, bitmap, http, view inject...",
+			"url":"https://github.com/wyouflf/xUtils3"
+		},
+		{
+			"lib":"kmackay/micro-ecc",
+			"language":"C++",
+			"stars":385,
+			"forks":132,
+			"desc":"ECDH and ECDSA for 8-bit, 32-bit, and 64-bit processors.",
+			"url":"https://github.com/kmackay/micro-ecc"
+		},
+		{
+			"lib":"nim-lang/Nim",
+			"language":"Nim",
+			"stars":4467,
+			"forks":618,
+			"desc":"Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).",
+			"url":"https://github.com/nim-lang/Nim"
+		},
+		{
+			"lib":"yglukhov/jnim",
+			"language":"Nim",
+			"stars":49,
+			"forks":0,
+			"desc":"Nim - Java bridge",
+			"url":"https://github.com/yglukhov/jnim"
+		},
+		{
+			"lib":"sfackler/rust-jni-sys",
+			"language":"Rust",
+			"stars":20,
+			"forks":0,
+			"desc":"Rust bindings to the JNI",
+			"url":"https://github.com/sfackler/rust-jni-sys"
+		},
+		{
+			"lib":"prevoty/jni-rs",
+			"language":"Rust",
+			"stars":69,
+			"forks":24,
+			"desc":"Rust bindings to the JNI",
+			"url":"https://github.com/prevoty/jni-rs"
+		},
+		{
+			"lib":"webmproject/libwebp",
+			"language":"C",
+			"stars":431,
+			"forks":133,
+			"desc":"Mirror only. Please do not send pull requests.",
+			"url":"https://github.com/webmproject/libwebp"
+		},
+		{
+			"lib":"jindw/xmldom",
+			"language":"JavaScript",
+			"stars":501,
+			"forks":159,
+			"desc":"A PURE JS W3C Standard based(XML DOM Level2 CORE) DOMParser and XMLSerializer.",
+			"url":"https://github.com/jindw/xmldom"
+		},
+		{
+			"lib":"dom96/nimrod-on-android",
+			"language":"C",
+			"stars":0,
+			"forks":25,
+			"desc":"Attempt to run nimrod on the android platform",
+			"url":"https://github.com/dom96/nimrod-on-android"
+		},
+		{
+			"lib":"kennytm/rust-ios-android",
+			"language":"Shell",
+			"stars":293,
+			"forks":25,
+			"desc":"Example project for building a library for iOS + Android in Rust.",
+			"url":"https://github.com/kennytm/rust-ios-android"
+		},
+		{
+			"lib":"tomaka/android-rs-glue",
+			"language":"Rust",
+			"stars":569,
+			"forks":65,
+			"desc":"Glue between Rust and Android",
+			"url":"https://github.com/tomaka/android-rs-glue"
+		},
+		{
+			"lib":"alexcrichton/curl-rust",
+			"language":"Rust",
+			"stars":367,
+			"forks":90,
+			"desc":"Rust bindings to libcurl",
+			"url":"https://github.com/alexcrichton/curl-rust"
+		},
+		{
+			"lib":"yglukhov/nim-sdl-template",
+			"language":"Java",
+			"stars":46,
+			"forks":0,
+			"desc":"Cross-platform SDL/Nim skeleton",
+			"url":"https://github.com/yglukhov/nim-sdl-template"
+		},
+		{
+			"lib":"yglukhov/nimx",
+			"language":"Nim",
+			"stars":260,
+			"forks":30,
+			"desc":"GUI library",
+			"url":"https://github.com/yglukhov/nimx"
+		},
+		{
+			"lib":"rectalogic/v8-webgl",
+			"language":"C++",
+			"stars":18,
+			"forks":0,
+			"desc":"WebGL implementation for v8",
+			"url":"https://github.com/rectalogic/v8-webgl"
+		},
+		{
+			"lib":"cesanta/v7",
+			"language":"C",
+			"stars":1087,
+			"forks":134,
+			"desc":"Embedded JavaScript engine for C/C++",
+			"url":"https://github.com/cesanta/v7"
+		},
+		{
+			"lib":"janneku/hashmap",
+			"language":"C",
+			"stars":7,
+			"forks":0,
+			"desc":"A generic hashmap implementation in C",
+			"url":"https://github.com/janneku/hashmap"
+		},
+		{
+			"lib":"omochi/JavaScriptCore-android-build",
+			"language":"Makefile",
+			"stars":7,
+			"forks":0,
+			"desc":"Build JavaScriptCore for Android",
+			"url":"https://github.com/omochi/JavaScriptCore-android-build"
+		},
+		{
+			"lib":"Constellation/rust-jsc",
+			"language":"Rust",
+			"stars":3,
+			"forks":0,
+			"desc":"WebKit JavaScriptCore rust binding",
+			"url":"https://github.com/Constellation/rust-jsc"
+		},
+		{
+			"lib":"hszhsh/JavaScriptCore",
+			"language":"C++",
+			"stars":26,
+			"forks":10,
+			"desc":"Apple's JavaScriptCore Library (Modified for iOS and Android)",
+			"url":"https://github.com/hszhsh/JavaScriptCore"
+		},
+		{
+			"lib":"v8/v8",
+			"language":"C++",
+			"stars":8004,
+			"forks":1748,
+			"desc":"The official mirror of the V8 Git repository",
+			"url":"https://github.com/v8/v8"
+		},
+		{
+			"lib":"servo/mozjs",
+			"language":"C++",
+			"stars":26,
+			"forks":58,
+			"desc":"Servo's SpiderMonkey fork",
+			"url":"https://github.com/servo/mozjs"
+		},
+		{
+			"lib":"ngsankha/rustynode",
+			"language":"Rust",
+			"stars":0,
+			"forks":882,
+			"desc":"JavaScript runtime in Rust",
+			"url":"https://github.com/ngsankha/rustynode"
+		},
+		{
+			"lib":"Flipboard/react-canvas",
+			"language":"JavaScript",
+			"stars":10877,
+			"forks":882,
+			"desc":"High performance &lt;canvas&gt; rendering for React components",
+			"url":"https://github.com/Flipboard/react-canvas"
+		},
+		{
+			"lib":"glium/glium",
+			"language":"Rust",
+			"stars":1463,
+			"forks":169,
+			"desc":"Safe OpenGL wrapper for the Rust language.",
+			"url":"https://github.com/glium/glium"
+		},
+		{
+			"lib":"redox-os/redox",
+			"language":"Shell",
+			"stars":8875,
+			"forks":595,
+			"desc":"Redox: A Rust Operating System",
+			"url":"https://github.com/redox-os/redox"
+		},
+		{
+			"lib":"UnhandledException/ARMx",
+			"language":"Shell",
+			"stars":26,
+			"forks":0,
+			"desc":"Embedded Linux Development Tools For Mac OS X",
+			"url":"https://github.com/UnhandledException/ARMx"
+		},
+		{
+			"lib":"xroche/coffeecatch",
+			"language":"C",
+			"stars":339,
+			"forks":73,
+			"desc":"CoffeeCatch, a tiny native POSIX signal catcher (especially useful for JNI code on Android/Dalvik)",
+			"url":"https://github.com/xroche/coffeecatch"
+		},
+		{
+			"lib":"celrenheit/lion",
+			"language":"Go",
+			"stars":755,
+			"forks":40,
+			"desc":"Lion is a fast HTTP router for building modern scalable modular REST APIs in Go",
+			"url":"https://github.com/celrenheit/lion"
+		},
+		{
+			"lib":"alexey-pelykh/webp-android-backport",
+			"language":"C++",
+			"stars":461,
+			"forks":110,
+			"desc":"WebP format support for Android &lt;4.0",
+			"url":"https://github.com/alexey-pelykh/webp-android-backport"
+		},
+		{
+			"lib":"hyunsik/rust-jni-template",
+			"language":"Rust",
+			"stars":0,
+			"forks":0,
+			"desc":"Template for Rust with JNI",
+			"url":"https://github.com/hyunsik/rust-jni-template"
+		},
+		{
+			"lib":"hyunsik/jni-rs",
+			"language":"Rust",
+			"stars":2,
+			"forks":0,
+			"desc":"JNI native binding and additional utilities",
+			"url":"https://github.com/hyunsik/jni-rs"
+		},
+		{
+			"lib":"Monnoroch/RustJni",
+			"language":"Rust",
+			"stars":38,
+			"forks":0,
+			"desc":"Jni lib for Rust.",
+			"url":"https://github.com/Monnoroch/RustJni"
+		},
+		{
+			"lib":"navasmdc/MaterialDesignLibrary",
+			"language":"Java",
+			"stars":8569,
+			"forks":2389,
+			"desc":"This is a library with components of Android L to you use in android 2.2",
+			"url":"https://github.com/navasmdc/MaterialDesignLibrary"
+		},
+		{
+			"lib":"BLPoonia/BLMultiColorLoader",
+			"language":"Objective-C",
+			"stars":112,
+			"forks":19,
+			"desc":"Simple, easy to use, Multi coloured and customisable loading indicator (loader) for iOS applications.",
+			"url":"https://github.com/BLPoonia/BLMultiColorLoader"
+		},
+		{
+			"lib":"81813780/AVLoadingIndicatorView",
+			"language":"Java",
+			"stars":6790,
+			"forks":1380,
+			"desc":"Nice loading animations for Android",
+			"url":"https://github.com/81813780/AVLoadingIndicatorView"
+		},
+		{
+			"lib":"wasabeef/awesome-android-ui",
+			"language":"Java",
+			"stars":28179,
+			"forks":7631,
+			"desc":"A curated list of awesome Android UI/UX libraries",
+			"url":"https://github.com/wasabeef/awesome-android-ui"
+		},
+		{
+			"lib":"pranavlathigara/awesome-android-ui",
+			"language":"Java",
+			"stars":57,
+			"forks":7631,
+			"desc":"A curated list of awesome Android UI/UX libraries",
+			"url":"https://github.com/pranavlathigara/awesome-android-ui"
+		},
+		{
+			"lib":"actorapp/actor-platform",
+			"language":"Java",
+			"stars":3206,
+			"forks":741,
+			"desc":"Actor Messaging platform",
+			"url":"https://github.com/actorapp/actor-platform"
+		},
+		{
+			"lib":"greenrobot/EventBus",
+			"language":"Java",
+			"stars":17155,
+			"forks":3914,
+			"desc":"Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.",
+			"url":"https://github.com/greenrobot/EventBus"
+		},
+		{
+			"lib":"astaxie/beego",
+			"language":"Go",
+			"stars":13822,
+			"forks":3097,
+			"desc":"beego is an open-source, high-performance web framework for the Go programming language.",
+			"url":"https://github.com/astaxie/beego"
+		},
+		{
+			"lib":"beego/bee",
+			"language":"Go",
+			"stars":540,
+			"forks":307,
+			"desc":"Bee is a tool for helping develop with beego app framework.",
+			"url":"https://github.com/beego/bee"
+		},
+		{
+			"lib":"astaxie/build-web-application-with-golang",
+			"language":"Go",
+			"stars":20354,
+			"forks":6070,
+			"desc":"A golang ebook intro how to build a web with golang",
+			"url":"https://github.com/astaxie/build-web-application-with-golang"
+		},
+		{
+			"lib":"mohankr/Superuser",
+			"language":"C",
+			"stars":5,
+			"forks":722,
+			"desc":"Android/bionic port of busybox",
+			"url":"https://github.com/mohankr/Superuser"
+		},
+		{
+			"lib":"CyanogenMod/android_external_javassist",
+			"language":"Java",
+			"stars":4,
+			"forks":14,
+			"desc":"Android/bionic port of busybox",
+			"url":"https://github.com/CyanogenMod/android_external_javassist"
+		},
+		{
+			"lib":"Evervolv/android_external_busybox",
+			"language":"C",
+			"stars":5,
+			"forks":10,
+			"desc":"Android/bionic port of busybox",
+			"url":"https://github.com/Evervolv/android_external_busybox"
+		},
+		{
+			"lib":"koush/Superuser",
+			"language":"C",
+			"stars":1095,
+			"forks":722,
+			"desc":"Android/bionic port of busybox",
+			"url":"https://github.com/koush/Superuser"
+		},
+		{
+			"lib":"CyanogenMod/android_external_busybox",
+			"language":"C",
+			"stars":138,
+			"forks":355,
+			"desc":"Android/bionic port of busybox",
+			"url":"https://github.com/CyanogenMod/android_external_busybox"
+		},
+		{
+			"lib":"aosp-mirror/platform_frameworks_base",
+			"language":"Java",
+			"stars":7195,
+			"forks":5027,
+			"desc":"Http Library for C#",
+			"url":"https://github.com/aosp-mirror/platform_frameworks_base"
+		},
+		{
+			"lib":"EasyHttp/EasyHttp",
+			"language":"C#",
+			"stars":560,
+			"forks":146,
+			"desc":"Http Library for C#",
+			"url":"https://github.com/EasyHttp/EasyHttp"
+		},
+		{
+			"lib":"ikew0ng/SwipeBackLayout",
+			"language":"Java",
+			"stars":4802,
+			"forks":1350,
+			"desc":"An Android library that help you to build app with swipe back gesture.",
+			"url":"https://github.com/ikew0ng/SwipeBackLayout"
+		},
+		{
+			"lib":"AOKP/frameworks_base",
+			"language":"Java",
+			"stars":27,
+			"forks":206,
+			"desc":"*DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app.",
+			"url":"https://github.com/AOKP/frameworks_base"
+		},
+		{
+			"lib":"SimonVT/android-menudrawer",
+			"language":"Java",
+			"stars":2690,
+			"forks":1239,
+			"desc":"*DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app.",
+			"url":"https://github.com/SimonVT/android-menudrawer"
+		},
+		{
+			"lib":"iBotPeaches/Apktool",
+			"language":"Java",
+			"stars":5651,
+			"forks":1695,
+			"desc":"A tool for reverse engineering Android apk files",
+			"url":"https://github.com/iBotPeaches/Apktool"
+		},
+		{
+			"lib":"MiCode/Notes",
+			"language":"Java",
+			"stars":1472,
+			"forks":853,
+			"desc":"小米便签社区开源版（Community edition of XM notepad/MIUI notes)",
+			"url":"https://github.com/MiCode/Notes"
+		}]
+}

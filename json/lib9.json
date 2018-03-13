@@ -1,0 +1,475 @@
+{
+	"joker_star":[
+		{
+			"lib":"bolasblack/http-api-guide",
+			"language":"JavaScript",
+			"stars":1909,
+			"forks":331,
+			"desc":"🐷 Cli tool for creating react apps, configurable version of create-react-app.",
+			"url":"https://github.com/bolasblack/http-api-guide"
+		},
+		{
+			"lib":"sorrycc/roadhog",
+			"language":"JavaScript",
+			"stars":1271,
+			"forks":206,
+			"desc":"🐷 Cli tool for creating react apps, configurable version of create-react-app.",
+			"url":"https://github.com/sorrycc/roadhog"
+		},
+		{
+			"lib":"audreyt/ethercalc",
+			"language":"JavaScript",
+			"stars":1806,
+			"forks":329,
+			"desc":"Node.js port of Multi-user SocialCalc",
+			"url":"https://github.com/audreyt/ethercalc"
+		},
+		{
+			"lib":"sorrycc/blog",
+			"language":"JavaScript",
+			"stars":1730,
+			"forks":164,
+			"desc":"💡",
+			"url":"https://github.com/sorrycc/blog"
+		},
+		{
+			"lib":"facebook/react-native",
+			"language":"JavaScript",
+			"stars":58933,
+			"forks":13590,
+			"desc":"A framework for building native apps with React.",
+			"url":"https://github.com/facebook/react-native"
+		},
+		{
+			"lib":"dvajs/dva",
+			"language":"JavaScript",
+			"stars":7740,
+			"forks":1252,
+			"desc":"🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)",
+			"url":"https://github.com/dvajs/dva"
+		},
+		{
+			"lib":"ant-tool/atool-build",
+			"language":"JavaScript",
+			"stars":289,
+			"forks":61,
+			"desc":"🔨 Build tool based on webpack.",
+			"url":"https://github.com/ant-tool/atool-build"
+		},
+		{
+			"lib":"ant-design/antd-mobile-samples",
+			"language":"HTML",
+			"stars":410,
+			"forks":395,
+			"desc":"antd-mobile samples",
+			"url":"https://github.com/ant-design/antd-mobile-samples"
+		},
+		{
+			"lib":"ant-design/babel-plugin-import",
+			"language":"JavaScript",
+			"stars":734,
+			"forks":97,
+			"desc":"Modularly import plugin for babel.",
+			"url":"https://github.com/ant-design/babel-plugin-import"
+		},
+		{
+			"lib":"ruanyf/react-demos",
+			"language":"JavaScript",
+			"stars":12190,
+			"forks":5703,
+			"desc":"a collection of simple demos of React.js",
+			"url":"https://github.com/ruanyf/react-demos"
+		},
+		{
+			"lib":"react-webpack-generators/generator-react-webpack",
+			"language":"JavaScript",
+			"stars":2703,
+			"forks":372,
+			"desc":"Yeoman generator for ReactJS and Webpack",
+			"url":"https://github.com/react-webpack-generators/generator-react-webpack"
+		},
+		{
+			"lib":"alibaba/ARouter",
+			"language":"Java",
+			"stars":4391,
+			"forks":723,
+			"desc":"An android router middleware that help app navigating to activities and custom services.",
+			"url":"https://github.com/alibaba/ARouter"
+		},
+		{
+			"lib":"joyrun/ActivityRouter",
+			"language":"Java",
+			"stars":284,
+			"forks":56,
+			"desc":"ActivityRouter路由框架：通过注解实现URL打开Activity",
+			"url":"https://github.com/joyrun/ActivityRouter"
+		},
+		{
+			"lib":"mingjunli/AndroidDevResources",
+			"language":"Java",
+			"stars":122,
+			"forks":49,
+			"desc":"Android App Dev Resources",
+			"url":"https://github.com/mingjunli/AndroidDevResources"
+		},
+		{
+			"lib":"dersoncheng/CleanDagger",
+			"language":"Java",
+			"stars":0,
+			"forks":894,
+			"desc":"Clean MVP+Dagger2+RxJava",
+			"url":"https://github.com/dersoncheng/CleanDagger"
+		},
+		{
+			"lib":"zrong/quick-cocos2d-x",
+			"language":"C",
+			"stars":62,
+			"forks":894,
+			"desc":"Quick Mobile Game Engine, based cocos2d-x",
+			"url":"https://github.com/zrong/quick-cocos2d-x"
+		},
+		{
+			"lib":"diegonehab/luasocket",
+			"language":"HTML",
+			"stars":735,
+			"forks":320,
+			"desc":"Network support for the Lua language",
+			"url":"https://github.com/diegonehab/luasocket"
+		},
+		{
+			"lib":"leitwolf/QuickXDev",
+			"language":"Python",
+			"stars":161,
+			"forks":103,
+			"desc":"Powerful quick-cocos2d-x develop plugin for sublime text 2/3",
+			"url":"https://github.com/leitwolf/QuickXDev"
+		},
+		{
+			"lib":"bartonhammond/snowflake",
+			"language":"JavaScript",
+			"stars":3914,
+			"forks":569,
+			"desc":"❄️ A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, &amp; Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku",
+			"url":"https://github.com/bartonhammond/snowflake"
+		},
+		{
+			"lib":"dersoncheng/react-native-tabhost",
+			"language":"JavaScript",
+			"stars":0,
+			"forks":170,
+			"desc":"react-native-tabhost widget",
+			"url":"https://github.com/dersoncheng/react-native-tabhost"
+		},
+		{
+			"lib":"facebook/fbjs",
+			"language":"JavaScript",
+			"stars":1052,
+			"forks":170,
+			"desc":"A collection of utility libraries used by other Facebook JS projects.",
+			"url":"https://github.com/facebook/fbjs"
+		},
+		{
+			"lib":"react-component/rn-core",
+			"language":"Objective-C",
+			"stars":6,
+			"forks":0,
+			"desc":"Standalone ReactNative Framework",
+			"url":"https://github.com/react-component/rn-core"
+		},
+		{
+			"lib":"dersoncheng/react-native-iconfont-text",
+			"language":"JavaScript",
+			"stars":17,
+			"forks":0,
+			"desc":"react-native的iconfont组件",
+			"url":"https://github.com/dersoncheng/react-native-iconfont-text"
+		},
+		{
+			"lib":"dersoncheng/react_native_actionbar",
+			"language":"JavaScript",
+			"stars":0,
+			"forks":102,
+			"desc":"React-Native的ActionBar组件",
+			"url":"https://github.com/dersoncheng/react_native_actionbar"
+		},
+		{
+			"lib":"xtemplate/xtemplate",
+			"language":"JavaScript",
+			"stars":408,
+			"forks":102,
+			"desc":"eXtensible Template Engine lib for node and the browser",
+			"url":"https://github.com/xtemplate/xtemplate"
+		},
+		{
+			"lib":"square/dagger",
+			"language":"Java",
+			"stars":6627,
+			"forks":2218,
+			"desc":"A fast dependency injector for Android and Java.",
+			"url":"https://github.com/square/dagger"
+		},
+		{
+			"lib":"glomadrian/MvpCleanArchitecture",
+			"language":"Java",
+			"stars":880,
+			"forks":195,
+			"desc":"A sample project using Clean architecture and MVP in Android",
+			"url":"https://github.com/glomadrian/MvpCleanArchitecture"
+		},
+		{
+			"lib":"dersoncheng/flowchart.js",
+			"language":"JavaScript",
+			"stars":1,
+			"forks":650,
+			"desc":"Draws simple SVG flow chart diagrams from textual representation of the diagram",
+			"url":"https://github.com/dersoncheng/flowchart.js"
+		},
+		{
+			"lib":"adrai/flowchart.js",
+			"language":"JavaScript",
+			"stars":4574,
+			"forks":650,
+			"desc":"Draws simple SVG flow chart diagrams from textual representation of the diagram",
+			"url":"https://github.com/adrai/flowchart.js"
+		},
+		{
+			"lib":"dersoncheng/MovieGuide",
+			"language":"Java",
+			"stars":2,
+			"forks":484,
+			"desc":"An Android app that showcases the MVP pattern, Clean Architecture and RxJava",
+			"url":"https://github.com/dersoncheng/MovieGuide"
+		},
+		{
+			"lib":"esoxjem/MovieGuide",
+			"language":"Java",
+			"stars":1744,
+			"forks":484,
+			"desc":"Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture",
+			"url":"https://github.com/esoxjem/MovieGuide"
+		},
+		{
+			"lib":"hanks-zyh/HTextView",
+			"language":"Java",
+			"stars":3683,
+			"forks":623,
+			"desc":"Animation effects to text, not really textview",
+			"url":"https://github.com/hanks-zyh/HTextView"
+		},
+		{
+			"lib":"meddle0x53/learning-rxjava",
+			"language":"Java",
+			"stars":257,
+			"forks":99,
+			"desc":"Examples of using RxJava",
+			"url":"https://github.com/meddle0x53/learning-rxjava"
+		},
+		{
+			"lib":"PrashamTrivedi/AndroidExternalFileWriter",
+			"language":"Java",
+			"stars":69,
+			"forks":10,
+			"desc":"A helper class to write files in external android storage, along with it's demo application.",
+			"url":"https://github.com/PrashamTrivedi/AndroidExternalFileWriter"
+		},
+		{
+			"lib":"skylot/jadx",
+			"language":"Java",
+			"stars":13733,
+			"forks":1253,
+			"desc":"Dex to Java decompiler",
+			"url":"https://github.com/skylot/jadx"
+		},
+		{
+			"lib":"pwittchen/ReactiveNetwork",
+			"language":"Java",
+			"stars":1673,
+			"forks":176,
+			"desc":"Android library listening network connection state and Internet connectivity with RxJava Observables",
+			"url":"https://github.com/pwittchen/ReactiveNetwork"
+		},
+		{
+			"lib":"THEONE10211024/RxJavaSamples",
+			"language":"Java",
+			"stars":1021,
+			"forks":199,
+			"desc":"收集了RxJava常见的使用场景，例子简洁、经典、易懂...",
+			"url":"https://github.com/THEONE10211024/RxJavaSamples"
+		},
+		{
+			"lib":"ReactiveX/RxAndroid",
+			"language":"Java",
+			"stars":14978,
+			"forks":2471,
+			"desc":"RxJava bindings for Android",
+			"url":"https://github.com/ReactiveX/RxAndroid"
+		},
+		{
+			"lib":"wasabeef/recyclerview-animators",
+			"language":"Java",
+			"stars":7458,
+			"forks":1541,
+			"desc":"An Android Animation library which easily add itemanimator to RecyclerView items.",
+			"url":"https://github.com/wasabeef/recyclerview-animators"
+		},
+		{
+			"lib":"alexvasilkov/FoldableLayout",
+			"language":"Java",
+			"stars":1538,
+			"forks":350,
+			"desc":"Android widgets to implement folding animation",
+			"url":"https://github.com/alexvasilkov/FoldableLayout"
+		},
+		{
+			"lib":"mxn21/FlowingDrawer",
+			"language":"Java",
+			"stars":2023,
+			"forks":403,
+			"desc":"swipe display drawer with flowing &amp; bouncing effects.",
+			"url":"https://github.com/mxn21/FlowingDrawer"
+		},
+		{
+			"lib":"81813780/AVLoadingIndicatorView",
+			"language":"Java",
+			"stars":6790,
+			"forks":1380,
+			"desc":"Nice loading animations for Android",
+			"url":"https://github.com/81813780/AVLoadingIndicatorView"
+		},
+		{
+			"lib":"ReactiveX/RxJava",
+			"language":"Java",
+			"stars":30448,
+			"forks":5352,
+			"desc":"RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+			"url":"https://github.com/ReactiveX/RxJava"
+		},
+		{
+			"lib":"Modificator/water-wave-progress",
+			"language":"Java",
+			"stars":334,
+			"forks":126,
+			"desc":"水波按进度上升，带环形进度条",
+			"url":"https://github.com/Modificator/water-wave-progress"
+		},
+		{
+			"lib":"PhilJay/ValueBar",
+			"language":"Java",
+			"stars":132,
+			"forks":36,
+			"desc":"A beautiful Android custom View that works similar to a range or seekbar. With animations.",
+			"url":"https://github.com/PhilJay/ValueBar"
+		},
+		{
+			"lib":"dersoncheng/fleamarket",
+			"language":"Java",
+			"stars":1,
+			"forks":0,
+			"desc":"Parse SDK for Android",
+			"url":"https://github.com/dersoncheng/fleamarket"
+		},
+		{
+			"lib":"parse-community/Parse-SDK-Android",
+			"language":"Java",
+			"stars":1441,
+			"forks":631,
+			"desc":"Parse SDK for Android",
+			"url":"https://github.com/parse-community/Parse-SDK-Android"
+		},
+		{
+			"lib":"deano2390/MaterialShowcaseView",
+			"language":"Java",
+			"stars":2012,
+			"forks":397,
+			"desc":"A Material Design themed ShowcaseView for Android",
+			"url":"https://github.com/deano2390/MaterialShowcaseView"
+		},
+		{
+			"lib":"iluwatar/java-design-patterns",
+			"language":"Java",
+			"stars":28894,
+			"forks":9313,
+			"desc":"Design patterns implemented in Java",
+			"url":"https://github.com/iluwatar/java-design-patterns"
+		},
+		{
+			"lib":"dodola/PinterestLikeAdapterView",
+			"language":"Java",
+			"stars":419,
+			"forks":840,
+			"desc":"implement android pinterest app like multi column list view.",
+			"url":"https://github.com/dodola/PinterestLikeAdapterView"
+		},
+		{
+			"lib":"chentao0707/SimplifyReader",
+			"language":"Java",
+			"stars":4198,
+			"forks":1642,
+			"desc":"一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！",
+			"url":"https://github.com/chentao0707/SimplifyReader"
+		},
+		{
+			"lib":"iKrelve/KuaiHu",
+			"language":"Java",
+			"stars":703,
+			"forks":304,
+			"desc":"高仿知乎日报——krelve.com",
+			"url":"https://github.com/iKrelve/KuaiHu"
+		},
+		{
+			"lib":"DroidPluginTeam/DroidPlugin",
+			"language":"Java",
+			"stars":5426,
+			"forks":2315,
+			"desc":"A plugin framework on android,Run any third-party apk without installation, modification or repackage",
+			"url":"https://github.com/DroidPluginTeam/DroidPlugin"
+		},
+		{
+			"lib":"dersoncheng/Pumelo",
+			"language":"Java",
+			"stars":22,
+			"forks":15,
+			"desc":"Fast AndroidApplication Framework(Android MVP + Location + Volley).Android快速开发框架(MVP设计模式＋volley+百度定位功能)",
+			"url":"https://github.com/dersoncheng/Pumelo"
+		},
+		{
+			"lib":"intrications/browser-intercept",
+			"language":"Java",
+			"stars":9,
+			"forks":0,
+			"desc":"Browser Intercept Android App",
+			"url":"https://github.com/intrications/browser-intercept"
+		},
+		{
+			"lib":"google/material-design-icons",
+			"language":"CSS",
+			"stars":33269,
+			"forks":6572,
+			"desc":"Material Design icons by Google",
+			"url":"https://github.com/google/material-design-icons"
+		},
+		{
+			"lib":"dersoncheng/AsyncHttpSender",
+			"language":"Java",
+			"stars":7,
+			"forks":0,
+			"desc":"面向接口设计的Http服务客户端框架设计，封装了AsyncHttpClient的功能，在此基础上添加了缓存的功能，面向接口的设计可以方便的将AsyncHttpClient替换为其他的http实现。",
+			"url":"https://github.com/dersoncheng/AsyncHttpSender"
+		},
+		{
+			"lib":"dersoncheng/MultipleTheme",
+			"language":"Java",
+			"stars":1445,
+			"forks":297,
+			"desc":"Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity when you switch theme-mode.",
+			"url":"https://github.com/dersoncheng/MultipleTheme"
+		},
+		{
+			"lib":"xiongwei-git/AndroidScreenSlide",
+			"language":"Java",
+			"stars":37,
+			"forks":0,
+			"desc":"AndroidScreenSlide",
+			"url":"https://github.com/xiongwei-git/AndroidScreenSlide"
+		}]
+}
